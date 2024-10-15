@@ -14,6 +14,9 @@ Guaging the quality of software based on popularity alone is not the best way, I
 ## Other Information
 There's an additional section at the end to shout out several closed-source applications that deserve a spot on this list despite being proprietary. Although a rare occurance, there are some app categories in which a proprietary application is truly the best of what's out there. 
 
+## Contents
+[Terminal](#terminal)
+
 # Applications
 
 ### Terminal
