@@ -52,7 +52,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### Terminal
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | **Cross-platform** | 24.2k |
 | [Wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust  | **Cross-platform** | 17.2k |
@@ -63,7 +63,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### Code-editor
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | **MacOS** | 48.4k |
 | [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | **Cross-platform** | 33.4k |
@@ -79,13 +79,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### IDE
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | **Cross-platform** | 17.2k |
 
 ### LLM-Gui
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | **Cross-platform** | 42.9k |
 | [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | **Cross-platform** | 70k |
@@ -96,7 +96,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### Browser
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Zen](https://github.com/zen-browser/desktop) | 🌀 Experience tranquillity while browsing the web without people tracking you! | **Cross-platform** | 14.9k |
 | [Brave](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | **Cross-platform** | 17.7k |
@@ -104,7 +104,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### Graphics
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.  | **Browser** | 7.9k |
 | [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | **Cross-platform** | 19.5k |
@@ -112,7 +112,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### File-Manager
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.  | **Cross-platform** | 32k |
 | [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | **Windows** | 34.2k |
@@ -125,7 +125,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### KnowledgeBase
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. | **Cross-platform** | 32.5k |
 | [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | **Cross-platform** | 4.3k |
@@ -136,7 +136,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### NoteTaking
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | **Cross-platform** | 45.5k |
 | [Notesnook](https://github.com/streetwriters/notesnook) | A fully open source & end-to-end encrypted note taking alternative to Evernote. | **Cross-platform** | 9.7k |
@@ -144,7 +144,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ### Markdown
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | **Cross-platform** | 10.3k |
 
@@ -154,7 +154,7 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### ProjectManagement
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. | **Cross-platform** | 29.8k |
 | [Focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | **Cross-platform** | 21.6k |
@@ -163,19 +163,19 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Productivity
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Super Productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. | **Cross-platform** | 11.7k |
 
 ### TextEditor
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | **Cross-platform** | 43.5k |
 
 ### AI-Image-GUI
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | **MacOS** | 12.5k |
 | [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | **Cross-platform** | 141k |
@@ -189,13 +189,13 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Screen-recording
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | **Cross-platform** | 59.7k |
 
 ### Games
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Endless Sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | **Cross-platform** | 5.8k |
 | [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | **Cross-platform** | 10.3k |
@@ -206,13 +206,13 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Chat
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | **Cross-platform** | Total: 50k+ |
 
 ### Video-Editing
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | **Cross-platform** | 3.1k |
 | [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | **Cross-platform** | 10.9k |
@@ -220,13 +220,13 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Development
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Github Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | **Cross-platform** | 19.7k |
 
 ### Password-Manager
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | **Cross-platform** | Total: 30k+ |
 | [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | **Cross-platform** | 21k |
@@ -234,38 +234,38 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Game-Engine
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | **Cross-platform** | 90.2k |
 
 ### Remote-Desktop
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | **Cross-platform** | 74.2k |
 
 ### Virtual-Machine
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **Cross-platform** | 26.6k |
 
 ### Office-Suite
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | **Cross-platform** | 2.8k |
 | [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
 
 ### Utilities
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
 
 ### Package-Manager
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Homebrew](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | **Cross-platform** | 7.4k |
@@ -275,7 +275,7 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Video-Player
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | **Cross-platform** | 28.2k |
 | [iina]([https://github.com/yarnpkg/berry](https://github.com/iina/iina)) | The modern video player for macOS. | **MacOS** | 38k |
@@ -283,19 +283,19 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Mail
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | **Cross-platform** | 15.5k |
 
 ### Calendar
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | **Cross-platform** | 31.9k |
 
 ### Download-Manager
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | **Cross-platform** | 16.3k |
 | [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | **Cross-platform** | 1.5k |
@@ -306,7 +306,7 @@ The following also support markdown editing but have been placed in the [knowled
 
 ### Other
 
-| Name/Link | Description | Platform | Stars |
+| Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | **Cross-platform** | 2.2k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
