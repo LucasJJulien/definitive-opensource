@@ -3,7 +3,7 @@
 <p align="center"> A definitive list of the best of everything open source </p>
 
 > [!NOTE]  
-> A more efficient submission method is currently under development.
+> Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what have updated or added. 
 
 > [!CAUTION]  
 > Star count last updated 10/15/2024. API retrieval system of stars currently being implemented for always up-to-date star count.
@@ -20,6 +20,7 @@ There's an additional section at the end to shout out several closed-source appl
 ## Contents
 - [Terminal](#terminal)
 - [Code Editor](#code-editor)
+- [IDE](#ide)
 - [Terminal](#llm-gui)
 - [Browser](#browser)
 - [Graphics](#graphics)
@@ -27,6 +28,7 @@ There's an additional section at the end to shout out several closed-source appl
 - [Knowledge Base](#knowledgebase)
 - [Note Taking](#notetaking)
 - [Project Management](#projectmanagement)
+- [Productivity](#productivity)
 - [AI Image GUI](#ai-image-gui)
 - [Screen Recording](#screen-recording)
 - [Games](#games)
@@ -39,6 +41,11 @@ There's an additional section at the end to shout out several closed-source appl
 - [Office Suite](#office-suite)
 - [Utilities](#utilities)
 - [Package Manager](#package-manager)
+- [Video Player](#video-player)
+- [Mail](#mail)
+- [Calendar](#calendar)
+- [Download Manager](#download-manager)
+- [Other](#other)
 
 
 # Applications
@@ -68,6 +75,12 @@ There's an additional section at the end to shout out several closed-source appl
 | [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | **Cross-platform** | 24.6k |
 | [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | **Cross-platform** | 163k |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | **Cross-platform** | 25.2k |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | **MacOS** | 21k |
+
+### IDE
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
 | [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | **Cross-platform** | 17.2k |
 
 ### LLM-Gui
@@ -118,7 +131,8 @@ There's an additional section at the end to shout out several closed-source appl
 | [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | **Cross-platform** | 4.3k |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. | **Cross-platform** | 59.6k |
 | [Affine](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | **Cross-platform** | 41.3k |
-| [Outline]([https://github.com/Eugeny/tabby](https://github.com/outline/outline)) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | **Cross-platform** | 27.8k |
+| [Outline](https://github.com/outline/outline)) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | **Cross-platform** | 27.8k |
+| [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | **Cross-platform** | 19.5k |
 
 ### NoteTaking
 
@@ -127,6 +141,16 @@ There's an additional section at the end to shout out several closed-source appl
 | [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | **Cross-platform** | 45.5k |
 | [Notesnook](https://github.com/streetwriters/notesnook) | A fully open source & end-to-end encrypted note taking alternative to Evernote. | **Cross-platform** | 9.7k |
 | [Trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | **Cross-platform** | 27.1k |
+
+### Markdown
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | **Cross-platform** | 10.3k |
+
+The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
+- Logseq
+- Anytype
 
 ### ProjectManagement
 
@@ -137,13 +161,19 @@ There's an additional section at the end to shout out several closed-source appl
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | **Cross-platform** | 14.6k |
 | [Openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. | **Cross-platform** | 9.3k |
 
-## TextEditor
+### Productivity
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Super Productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. | **Cross-platform** | 11.7k |
+
+### TextEditor
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | **Cross-platform** | 43.5k |
 
-## AI-Image-GUI
+### AI-Image-GUI
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -157,13 +187,13 @@ There's an additional section at the end to shout out several closed-source appl
 | [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | **Cross-platform** | 4.5k |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | **Cross-platform** | 4.6k |
 
-## Screen-recording
+### Screen-recording
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | **Cross-platform** | 59.7k |
 
-## Games
+### Games
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -174,13 +204,13 @@ There's an additional section at the end to shout out several closed-source appl
 | [Hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | **Cross-platform** | 43.3k |
 | [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | **Cross-platform** | 58.8k |
 
-## Chat
+### Chat
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | **Cross-platform** | Total: 50k+ |
 
-## Video-Editing
+### Video-Editing
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -188,13 +218,13 @@ There's an additional section at the end to shout out several closed-source appl
 | [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | **Cross-platform** | 10.9k |
 | [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
 
-## Development
+### Development
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Github Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | **Cross-platform** | 19.7k |
 
-## Password-Manager
+### Password-Manager
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -202,43 +232,86 @@ There's an additional section at the end to shout out several closed-source appl
 | [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | **Cross-platform** | 21k |
 | [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
 
-## Game-Engine
+### Game-Engine
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | **Cross-platform** | 90.2k |
 
-## Remote-Desktop
+### Remote-Desktop
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | **Cross-platform** | 74.2k |
 
-## Virtual-Machine
+### Virtual-Machine
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **Cross-platform** | 26.6k |
 
-## Office-Suite
+### Office-Suite
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | **Cross-platform** | 2.8k |
-| [LibreOffice]([https://github.com/ONLYOFFICE/DesktopEditors](https://github.com/libreoffice)) | No description provided. | **Cross-platform** | 2.8k |
+| [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
 
-## Utilities
+### Utilities
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
 
-## Package-Manager
+### Package-Manager
 
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Homebrew](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
-| [LibreOffice]([https://github.com/ONLYOFFICE/DesktopEditors](https://github.com/libreoffice)) | No description provided. | **Cross-platform** | 2.8k |
+| [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | **Cross-platform** | 7.4k |
+| [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | **Cross-platform** | 29.5k |
+| [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
+| [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
+
+### Video-Player
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | **Cross-platform** | 28.2k |
+| [iina]([https://github.com/yarnpkg/berry](https://github.com/iina/iina)) | The modern video player for macOS. | **MacOS** | 38k |
+| [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | **Cross-platform** | 14k |
+
+### Mail
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | **Cross-platform** | 15.5k |
+
+### Calendar
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | **Cross-platform** | 31.9k |
+
+### Download-Manager
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | **Cross-platform** | 16.3k |
+| [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | **Cross-platform** | 1.5k |
+| [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | **Cross-platform** | 45.4k |
+| [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | **Cross-platform** | 6.3k |
+| [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | **Cross-platform** | 16.3k |
+| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
+
+### Other
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | **Cross-platform** | 2.2k |
+| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
+
+
 
 
 
