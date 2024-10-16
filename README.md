@@ -6,10 +6,10 @@
 > Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what have updated or added. 
 
 > [!CAUTION]  
-> Star count last updated 10/15/2024. API retrieval system of stars currently being implemented for always up-to-date star count.
+> Star count last updated 10/15/2024. API retrieval system of stars currently being implemented for always up-to-date star counts.
 
 ## Why another list?
-There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them to be either far too cluttered with long-deprecated apps or missing a lot of modern open source projects. 
+There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
 
 This list aims to be highly curated including only the best open source projects. This is, to some extent guaged with popularity. Only projects with over 5000 stars are generally included, however there can be exceptions. There's plenty of extraordinary projects with just a couple thousand stars.
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
