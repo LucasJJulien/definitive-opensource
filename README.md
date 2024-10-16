@@ -21,7 +21,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 - [Terminal](#terminal)
 - [Code Editor](#code-editor)
 - [IDE](#ide)
-- [Terminal](#llm-gui)
+- [LLM Gui](#llm-gui)
 - [Browser](#browser)
 - [Graphics](#graphics)
 - [File Manager](#file-manager)
