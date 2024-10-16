@@ -1,17 +1,17 @@
 
 <h1 align="center"> definitive-opensource </h1>
-<p align="center"> A definitive list of the best open source applications </p>
+<p align="center"> A definitive list of the best of everything open source </p>
 
 > [!NOTE]  
-> A more efficient submission method is currently in development.
+> A more efficient submission method is currently under development.
 
 > [!CAUTION]  
-> Star count last updated 10/15/2024. API retrieval system of stars currently in development.
+> Star count last updated 10/15/2024. API retrieval system of stars currently being implemented for always up-to-date star count.
 
 ## Why another list?
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them to be either far too cluttered with long-deprecated apps or missing a lot of modern open source projects. 
 
-This list aims to be highly curated including only the best open source projects. This is, to some extent guaged with popularity. Only projects with over 10,000 stars are generally included, however there can be exceptions. There's plenty of extraordinary projects with just a couple thousand stars.
+This list aims to be highly curated including only the best open source projects. This is, to some extent guaged with popularity. Only projects with over 5000 stars are generally included, however there can be exceptions. There's plenty of extraordinary projects with just a couple thousand stars.
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
 ## Other Information
@@ -19,7 +19,7 @@ There's an additional section at the end to shout out several closed-source appl
 
 ## Contents
 - [Terminal](#terminal)
-- [Code-editor](#code-editor)
+- [Code Editor](#code-editor)
 - [Terminal](#llm-gui)
 - [Browser](#browser)
 - [Graphics](#graphics)
@@ -27,6 +27,18 @@ There's an additional section at the end to shout out several closed-source appl
 - [Knowledge Base](#knowledgebase)
 - [Note Taking](#notetaking)
 - [Project Management](#projectmanagement)
+- [AI Image GUI](#ai-image-gui)
+- [Screen Recording](#screen-recording)
+- [Games](#games)
+- [Chat](#chat)
+- [Video Editing](#video-editing)
+- [Password Manager](#password-manager)
+- [Game Engine](#game-engine)
+- [Remote Desktop](#remote-desktop)
+- [Virtual Machine](#virtual-machine)
+- [Office Suite](#office-suite)
+- [Utilities](#utilities)
+- [Package Manager](#package-manager)
 
 
 # Applications
@@ -130,3 +142,106 @@ There's an additional section at the end to shout out several closed-source appl
 | Name/Link | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | **Cross-platform** | 43.5k |
+
+## AI-Image-GUI
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | **MacOS** | 12.5k |
+| [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | **Cross-platform** | 141k |
+| [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | **Cross-platform** | 30.5k |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | **Cross-platform** | 53.2k |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | **Cross-platform** | 23.4k |
+| [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | No description, website, or topics provided. | **Cross-platform** | 8k |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | **Cross-platform** | 40.8k |
+| [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | **Cross-platform** | 4.5k |
+| [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | **Cross-platform** | 4.6k |
+
+## Screen-recording
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | **Cross-platform** | 59.7k |
+
+## Games
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Endless Sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | **Cross-platform** | 5.8k |
+| [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | **Cross-platform** | 10.3k |
+| [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V | **Cross-platform** | 8.4k |
+| [Wesnoth](https://github.com/wesnoth/wesnoth) | An open source, turn-based strategy game with a high fantasy theme. | **Cross-platform** | 5.5k |
+| [Hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | **Cross-platform** | 43.3k |
+| [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | **Cross-platform** | 58.8k |
+
+## Chat
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Signal](https://github.com/signalapp) | A private messenger. | **Cross-platform** | Total: 50k+ |
+
+## Video-Editing
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | **Cross-platform** | 3.1k |
+| [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | **Cross-platform** | 10.9k |
+| [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
+
+## Development
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Github Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | **Cross-platform** | 19.7k |
+
+## Password-Manager
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | **Cross-platform** | Total: 30k+ |
+| [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | **Cross-platform** | 21k |
+| [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
+
+## Game-Engine
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | **Cross-platform** | 90.2k |
+
+## Remote-Desktop
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | **Cross-platform** | 74.2k |
+
+## Virtual-Machine
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **Cross-platform** | 26.6k |
+
+## Office-Suite
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | **Cross-platform** | 2.8k |
+| [LibreOffice]([https://github.com/ONLYOFFICE/DesktopEditors](https://github.com/libreoffice)) | No description provided. | **Cross-platform** | 2.8k |
+
+## Utilities
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
+
+## Package-Manager
+
+| Name/Link | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Homebrew](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
+| [LibreOffice]([https://github.com/ONLYOFFICE/DesktopEditors](https://github.com/libreoffice)) | No description provided. | **Cross-platform** | 2.8k |
+
+
+
+
+
+
