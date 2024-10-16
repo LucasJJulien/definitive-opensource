@@ -44,6 +44,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 - [Utilities](#utilities)
 - [Video Editing](#video-editing)
 - [Virtual Machine](#virtual-machine)
+- [Video Downloader](#video-downloader)
 - [Video Player](#video-player)
 - [Other](#other)
 
@@ -249,6 +250,13 @@ The following also support markdown editing but have been placed in the [knowled
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **Cross-platform** | 26.6k |
+
+### Video-Downloader
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | **Cross-platform** | 85k |
+| [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | **Cross-platform** | 8.7k |
 
 ### Office-Suite
 
