@@ -313,6 +313,13 @@ The following also support markdown editing but have been placed in the [knowled
 
 
 
+## Honorable Mentions of Closed-Source Software
+Although a rare occurence, there are times in which proprietary software is the best option available even amongst closed-source competitors. Here are several such applications that deserve a spot on this list.
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A full-fledged video editor with an incredibly powerful free tier.
+- [Obsidian](https://obsidian.md/) - One of the most popular note taking apps / markdown editors. Often thought of to be open source, likely because the team behind the project isn't greedy.
+
+
+
 
 
 
