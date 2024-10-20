@@ -6,7 +6,7 @@
 > Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what you have updated or added.
 
 > [!TIP]  
-> For an open source project to be approved for submission, the repo should have over 5k stars - but this is flexible. If the app is extraordinary or does a task nothing else does, it will most likely be accepted. The app should also have relatively recent commits or something that signifies active development.
+> For an open source project to be approved for submission, the repo MUST have over 1k stars, and preferably over 5k stars - but this is flexible. If the app is extraordinary or does a task nothing else does, it will most likely be accepted. The app should also have relatively recent commits or something that signifies active development.
 
 > [!CAUTION]  
 > Star count last updated 10/15/2024. API retrieval system of stars currently being implemented for always up-to-date star counts.
