@@ -286,7 +286,7 @@ The following also support markdown editing but have been placed in the [knowled
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | **Cross-platform** | 28.2k |
-| [iina]([https://github.com/yarnpkg/berry](https://github.com/iina/iina)) | The modern video player for macOS. | **MacOS** | 38k |
+| [iina](https://github.com/iina/iina) | The modern video player for macOS. | **MacOS** | 38k |
 | [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | **Cross-platform** | 14k |
 
 ### Mail
