@@ -17,6 +17,9 @@ There's plenty of awesome lists on GitHub, many focusing on open source specific
 This list aims to be highly curated including only the best open source projects. This is, to some extent, guaged with popularity. Only projects with over 5000 stars are generally included, however there can be exceptions. There's plenty of extraordinary projects with just a couple thousand stars.
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
+## License
+This project is released under the MIT license, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
+
 ## Contents
 - [AI Image GUI](#ai-image-gui)
 - [Browser](#browser)
@@ -49,7 +52,6 @@ Guaging the quality of software based on popularity alone is not the best way, I
 - [Video Downloader](#video-downloader)
 - [Video Player](#video-player)
 - [Other](#other)
-
 
 # Applications
 
