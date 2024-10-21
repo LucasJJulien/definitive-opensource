@@ -24,6 +24,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 - [Chat](#chat)
 - [Code Editor](#code-editor)
 - [Download Manager](#download-manager)
+- [Extensions](#extensions)
 - [File Manager](#file-manager)
 - [Games](#games)
 - [Graphics](#graphics)
@@ -31,6 +32,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 - [IDE](#ide)
 - [Knowledge Base](#knowledgebase)
 - [LLM Gui](#llm-gui)
+- [Linux Dashboard](#linux-dashboard)
 - [Mail](#mail)
 - [Note Taking](#notetaking)
 - [Office Suite](#office-suite)
@@ -311,6 +313,22 @@ The following also support markdown editing but have been placed in the [knowled
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | **Cross-platform** | 6.3k |
 | [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | **Cross-platform** | 16.3k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
+
+### Extensions
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | **Chromium and Firefox** | 49.9k |
+| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | **Chromium and Firefox** | 19.6k |
+
+### Linux-Dashboard
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | **Linux** | 11.1k |
+| [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | **Linux** | 13.2k |
+| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | **Linux** | 25.6k |
+| [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | **Linux** | 27.2k |
 
 ### Other
 
