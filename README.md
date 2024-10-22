@@ -47,6 +47,7 @@ This project is released under the MIT license, hereby granting anyone to use, d
 - [Remote Desktop](#remote-desktop)
 - [Screen Recording](#screen-recording)
 - [Terminal](#terminal)
+- [Tools](#tools)
 - [Utilities](#utilities)
 - [Video Editing](#video-editing)
 - [Virtual Machine](#virtual-machine)
@@ -337,8 +338,15 @@ The following also support markdown editing but have been placed in the [knowled
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Immich](https://github.com/immich-app/immich) |High performance self-hosted photo and video management solution. | **Linux** | 49.3k |
+| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | **Linux** | 49.3k |
 | [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | **Linux** | 35.1k |
+
+### Tools
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | **Windows, Linux** | 19.9k |
+| [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | **Cross-platform** | 29.6k |
 
 ### Other
 
@@ -346,7 +354,7 @@ The following also support markdown editing but have been placed in the [knowled
 | --- | --- | --- | --- |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | **Cross-platform** | 2.2k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
-| [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | **Cross-platform** | 29.6k |
+
 
 
 
