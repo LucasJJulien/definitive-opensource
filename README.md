@@ -354,10 +354,7 @@ The following also support markdown editing but have been placed in the [knowled
 | --- | --- | --- | --- |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | **Cross-platform** | 2.2k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
-
-
-
-
+| [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | **?** | 49.7k |
 
 
 ## Honorable Mentions of Closed-Source Software
