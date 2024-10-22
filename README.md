@@ -33,6 +33,7 @@ This project is released under the MIT license, hereby granting anyone to use, d
 - [Graphics](#graphics)
 - [Game Engine](#game-engine)
 - [IDE](#ide)
+- [Self Hosted Media Management](#self-hosted-media-management)
 - [Knowledge Base](#knowledgebase)
 - [LLM Gui](#llm-gui)
 - [Linux Dashboard](#linux-dashboard)
@@ -283,7 +284,7 @@ The following also support markdown editing but have been placed in the [knowled
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | **Cross-platform** | 7.4k |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | **Cross-platform** | 29.5k |
 | [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
-| [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
+| [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | **Cross-platform** | 12.5k |
 
 ### Video-Player
 
@@ -332,12 +333,22 @@ The following also support markdown editing but have been placed in the [knowled
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | **Linux** | 25.6k |
 | [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | **Linux** | 27.2k |
 
+### Self-Hosted-Media-Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Immich](https://github.com/immich-app/immich) |High performance self-hosted photo and video management solution. | **Linux** | 49.3k |
+| [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | **Linux** | 35.1k |
+
 ### Other
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | **Cross-platform** | 2.2k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
+| [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | **Cross-platform** | 29.6k |
+
+
 
 
 
