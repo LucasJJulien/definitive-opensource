@@ -281,11 +281,12 @@ The following also support markdown editing but have been placed in the [knowled
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Homebrew](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
+| [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | **MacOS, Linux** | 41.2k |
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | **Cross-platform** | 7.4k |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | **Cross-platform** | 29.5k |
-| [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
+| [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | **Cross-platform** | 73.9k |
 | [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | **Cross-platform** | 12.5k |
+| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | **Cross-platform** | 79.7k |
 
 ### Video-Player
 
