@@ -1,15 +1,14 @@
 
-<p align="center"> ```v0.1.1-alpha``` </p>
+<table align="center"><tr><td>v0.1.1-alpha</td></tr></table>
+
 <h1 align="center"> definitive-opensource </h1>
-<p align="center"> A definitive list of the best of everything open source </p>
-
-
+<p align="center"> A definitive list of the best of everything </p>
 
 > [!NOTE]  
-> Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what you have updated or added.
+> Project is currently in the alpha stage and under heavy development. Formatting is still rough, a universal organization system has not yet been implemented, and many popular open-source projects are not yet included. Consult the roadmap for further information regarding development.
 
 > [!TIP]  
-> For an open source project to be approved for submission, the repo MUST have over 1k stars, and preferably over 5k stars - but this is flexible. If the app is extraordinary or does a task nothing else does, it will most likely be accepted. The app should also have relatively recent commits or something that signifies active development.
+> Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what you have updated or added. For an open source project to be approved for submission, the repo MUST have over 1k stars, and preferably over 5k stars - but this is flexible. If the app is extraordinary or does a task nothing else does, it will most likely be accepted. The app should also have relatively recent commits or something that signifies active development.
 
 > [!CAUTION]  
 > Star count last updated 10/15/2024. API retrieval system of stars currently being implemented for always up-to-date star counts.
@@ -21,7 +20,7 @@ This list aims to be highly curated including only the best open source projects
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
 ## License
-This project is released under the MIT license, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
+This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
 
 ## Contents
 
