@@ -224,9 +224,9 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | --- | --- | --- | --- |
 | [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | **Cross-platform** | 10.3k |
 
-The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
-- Logseq
-- Anytype
+> The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
+> - Logseq
+> - Anytype
 
 ### ProjectManagement
 
