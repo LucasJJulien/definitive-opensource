@@ -1,6 +1,9 @@
 
+<p align="center"> ```v0.1.1-alpha``` </p>
 <h1 align="center"> definitive-opensource </h1>
 <p align="center"> A definitive list of the best of everything open source </p>
+
+
 
 > [!NOTE]  
 > Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what you have updated or added.
@@ -21,39 +24,97 @@ Guaging the quality of software based on popularity alone is not the best way, I
 This project is released under the MIT license, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
 
 ## Contents
-- [AI Image GUI](#ai-image-gui)
-- [Browser](#browser)
-- [Calendar](#calendar)
-- [Chat](#chat)
-- [Code Editor](#code-editor)
-- [Download Manager](#download-manager)
-- [Extensions](#extensions)
-- [File Manager](#file-manager)
-- [Games](#games)
-- [Graphics](#graphics)
-- [Game Engine](#game-engine)
-- [IDE](#ide)
-- [Self Hosted Media Management](#self-hosted-media-management)
-- [Knowledge Base](#knowledgebase)
-- [LLM Gui](#llm-gui)
-- [Linux Dashboard](#linux-dashboard)
-- [Mail](#mail)
-- [Note Taking](#notetaking)
-- [Office Suite](#office-suite)
-- [Package Manager](#package-manager)
-- [Password Manager](#password-manager)
-- [Project Management](#projectmanagement)
-- [Productivity](#productivity)
-- [Remote Desktop](#remote-desktop)
-- [Screen Recording](#screen-recording)
-- [Terminal](#terminal)
-- [Tools](#tools)
-- [Utilities](#utilities)
-- [Video Editing](#video-editing)
-- [Virtual Machine](#virtual-machine)
-- [Video Downloader](#video-downloader)
-- [Video Player](#video-player)
-- [Other](#other)
+
+<details>
+  <summary><b>Alphabetical</b></summary> <br />
+  
+  - [AI Image GUI](#ai-image-gui)
+  - [Browser](#browser)
+  - [Calendar](#calendar)
+  - [Chat](#chat)
+  - [Code Editor](#code-editor)
+  - [Download Manager](#download-manager)
+  - [Extensions](#extensions)
+  - [File Manager](#file-manager)
+  - [Games](#games)
+  - [Graphics](#graphics)
+  - [Git GUI](#git-gui)
+  - [Game Engine](#game-engine)
+  - [IDE](#ide)
+  - [Self Hosted Media Management](#self-hosted-media-management)
+  - [Knowledge Base](#knowledgebase)
+  - [LLM Gui](#llm-gui)
+  - [Linux Dashboard](#linux-dashboard)
+  - [Language Package Manager](#language-package-manager)
+  - [Mail](#mail)
+  - [Note Taking](#notetaking)
+  - [Office Suite](#office-suite)
+  - [Package Manager](#package-manager)
+  - [Password Manager](#password-manager)
+  - [Project Management](#projectmanagement)
+  - [Remote Desktop](#remote-desktop)
+  - [Screen Recording](#screen-recording)
+  - [System Monitoring](#system-monitoring)
+  - [Task Management](#task-management)
+  - [Terminal](#terminal)
+  - [Tools](#tools)
+  - [Video Editing](#video-editing)
+  - [Virtual Machine](#virtual-machine)
+  - [Video Downloader](#video-downloader)
+  - [Video Player](#video-player)
+  - [Other](#other)
+
+</details>
+
+<details open>
+  <summary><b>Categorized</b></summary> <br />
+
+  - Internet
+      - [Browser](#browser)
+          - [Extensions](#extensions)
+      - [Download Manager](#download-manager)
+  - Media
+      - [Video Downloader](#video-downloader)
+      - [Video Editing](#video-editing)
+      - [Video Player](#video-player)
+      - [Graphics](#graphics)
+      - [Screen Recording](#screen-recording)
+  - Development
+      - [IDE](#ide)
+      - [Code Editor](#code-editor)
+      - [Git GUI](#git-gui)
+      - [Game Engine](#game-engine)
+      - [Language Package Manager](#language-package-manager)
+  - Utilities
+      - [Terminal](#terminal)
+      - [File Manager](#file-manager)
+      - [Tools](#tools)
+      - [Package Manager](#package-manager)
+      - [Virtual Machine](#virtual-machine)
+      - [Remote Desktop](#remote-desktop)
+  - Productivity
+      - [Calendar](#calendar)
+      - [Note Taking](#notetaking)
+      - [Office Suite](#office-suite)
+      - [Project Management](#projectmanagement)
+      - [Knowledge Base](#knowledgebase)
+      - [Task Management](#task-management)
+  - Security/Privacy
+      - [Password Manager](#password-manager)
+  - Communication
+      - [Chat](#chat)
+      - [Mail](#mail)
+  - Entertainment
+      - [Games](#games)
+  - Artificial Intelligence (AI)
+      - [AI Image GUI](#ai-image-gui)
+      - [LLM Gui](#llm-gui)
+  - Linux
+      - [Self Hosted Media Management](#self-hosted-media-management)
+      - [Linux Dashboard](#linux-dashboard)
+  - [Other](#other)
+
+</details>
 
 # Applications
 
@@ -168,7 +229,7 @@ The following also support markdown editing but have been placed in the [knowled
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | **Cross-platform** | 14.6k |
 | [Openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. | **Cross-platform** | 9.3k |
 
-### Productivity
+### Task-Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -225,7 +286,7 @@ The following also support markdown editing but have been placed in the [knowled
 | [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | **Cross-platform** | 10.9k |
 | [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
 
-### Development
+### Git-GUI
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -271,7 +332,7 @@ The following also support markdown editing but have been placed in the [knowled
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | **Cross-platform** | 2.8k |
 | [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
 
-### Utilities
+### System-Monitoring
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -282,11 +343,18 @@ The following also support markdown editing but have been placed in the [knowled
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | **MacOS, Linux** | 41.2k |
+| [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | **Windows** | 10.3k |
+| [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | **Cross-platform** | 12.5k |
+
+### Language-Package-Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | **Cross-platform** | 7.4k |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | **Cross-platform** | 29.5k |
 | [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | **Cross-platform** | 73.9k |
-| [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | **Cross-platform** | 12.5k |
 | [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | **Cross-platform** | 79.7k |
+| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | **Cross-platform** | 39.1k |
 
 ### Video-Player
 
