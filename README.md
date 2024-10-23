@@ -25,7 +25,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 <details>
   <summary><b>Alphabetical</b></summary> <br />
-  
+
+  - [Audio](#audio)
   - [AI Image GUI](#ai-image-gui)
   - [Browser](#browser)
   - [Calendar](#calendar)
@@ -77,6 +78,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Video Player](#video-player)
       - [Graphics](#graphics)
       - [Screen Recording](#screen-recording)
+      - [Audio](#audio)
   - Development
       - [IDE](#ide)
       - [Code Editor](#code-editor)
@@ -116,6 +118,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
 </details>
 
 # Applications
+
+### Audio
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Audacity](https://github.com/audacity/audacity) | Audio Editor | **Cross-platform** | 12.4k |
+
 
 ### Terminal
 
