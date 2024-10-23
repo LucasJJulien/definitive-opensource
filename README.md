@@ -21,9 +21,6 @@ There's plenty of awesome lists on GitHub, many focusing on open source specific
 This list aims to be highly curated including only the best open source projects. This is, to some extent, guaged with popularity. Only projects with over 5000 stars are generally included, however there can be exceptions. There's plenty of extraordinary projects with just a couple thousand stars.
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
-## License
-This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
-
 ## Contents
 
 <details>
@@ -114,6 +111,7 @@ This project is released under the ```MIT license```, hereby granting anyone to 
       - [Self Hosted Media Management](#self-hosted-media-management)
       - [Linux Dashboard](#linux-dashboard)
   - [Other](#other)
+  - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
 
 </details>
 
@@ -432,7 +430,10 @@ Although a rare occurence, there are times in which proprietary software is the 
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A full-fledged video editor with an incredibly powerful free tier.
 - [Obsidian](https://obsidian.md/) - One of the most popular note taking apps / markdown editors. Often thought of to be open source, likely because the team behind the project isn't greedy.
 - [LM Studio](https://lmstudio.ai/) - Incredibly powerful and feature rich gui for running local LLM models.
-- [JetBrains](https://www.jetbrains.com/) - A suite of incredibly powerful (and slightly bloated) IDE's. 
+- [JetBrains](https://www.jetbrains.com/) - A suite of incredibly powerful (and slightly bloated) IDE's.
+
+## License
+This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
 
 
 
