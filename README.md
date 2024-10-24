@@ -435,6 +435,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | **Cross-platform** | 2.2k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
 | [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | **?** | 49.7k |
+| [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | **Cross-platform** | 72.7k |
+
 
 
 ## Honorable Mentions of Closed-Source Software
