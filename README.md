@@ -4,7 +4,7 @@
 <h1 align="center"> definitive-opensource </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Maintained</code> - <code>License: MIT</code></p>
+<p align="center"><code>Status: Active</code> - <code>License: MIT</code></p>
 
 > [!NOTE]  
 > Project is currently in the alpha stage and under heavy development. Formatting is still rough, a universal organization system has not yet been implemented, and many popular open-source projects are not yet included. Consult the roadmap for further information regarding development.
