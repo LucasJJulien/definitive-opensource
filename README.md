@@ -10,7 +10,7 @@
 > This project is currently in the alpha stage and under heavy development. The list is currently edited directly from the readme, however my goal for the 1.0 release is for all open-source projects to be under a "list.json" file with scripts that automatically generate the readme. This would automate organization and make re-ordering far easier whilst enabling API retrieval of repository stats for always up to date star counts and descriptions. Consult the roadmap for further information regarding development.
 
 > [!TIP]  
-> Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what you have updated or added. For an open source project to be approved for submission, the repo MUST have over 1k stars, and preferably over 5k stars - but this is flexible. If the app is extraordinary or does a task nothing else does, it will most likely be accepted. The app should also have relatively recent commits or something that signifies active development.
+> Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. For more information on contributing and requirements for open-source software submissions, consult the contributing page. 
 
 > [!CAUTION]  
 > Starcounts are hard-coded and may not reflect latest values. API retrieval system of stars planned for 1.0 release.
