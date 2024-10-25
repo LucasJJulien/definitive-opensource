@@ -7,7 +7,7 @@
 <p align="center"><code>Status: Active</code> - <code>License: MIT</code></p>
 
 > [!NOTE]  
-> This project is currently in the alpha stage and under heavy development. The list is currently edited directly from the readme, however my goal for the 1.0 release is for all open-source projects to be under a "list.json" json file with scripts that automatically generate the readme. This would make organization and re-ordering far easier and would enable API retrieval of repository stats for always up to date star counts and descriptions. Consult the roadmap for further information regarding development.
+> This project is currently in the alpha stage and under heavy development. The list is currently edited directly from the readme, however my goal for the 1.0 release is for all open-source projects to be under a "list.json" file with scripts that automatically generate the readme. This would make organization and re-ordering far easier and would enable API retrieval of repository stats for always up to date star counts and descriptions. Consult the roadmap for further information regarding development.
 
 > [!TIP]  
 > Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what you have updated or added. For an open source project to be approved for submission, the repo MUST have over 1k stars, and preferably over 5k stars - but this is flexible. If the app is extraordinary or does a task nothing else does, it will most likely be accepted. The app should also have relatively recent commits or something that signifies active development.
