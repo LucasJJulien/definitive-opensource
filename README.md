@@ -7,13 +7,13 @@
 <p align="center"><code>Status: Active</code> - <code>License: MIT</code></p>
 
 > [!NOTE]  
-> Project is currently in the alpha stage and under heavy development. Formatting is still rough, a universal organization system has not yet been implemented, and many popular open-source projects are not yet included. Consult the roadmap for further information regarding development.
+> This project is currently in the alpha stage and under heavy development. The list is currently edited directly from the readme, however my goal for the 1.0 release is for all open-source projects to be under a "list.json" json file with scripts that automatically generate the readme. This would make organization and re-ordering far easier and would enable API retrieval of repository stats for always up to date star counts and descriptions. Consult the roadmap for further information regarding development.
 
 > [!TIP]  
 > Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. Please make sure you include a description of what you have updated or added. For an open source project to be approved for submission, the repo MUST have over 1k stars, and preferably over 5k stars - but this is flexible. If the app is extraordinary or does a task nothing else does, it will most likely be accepted. The app should also have relatively recent commits or something that signifies active development.
 
 > [!CAUTION]  
-> Star count last updated 10/15/2024. API retrieval system of stars currently being implemented for always up-to-date star counts.
+> Starcounts are hard-coded and may not reflect latest values. API retrieval system of stars planned for 1.0 release.
 
 ## Why another list?
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
