@@ -63,6 +63,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Virtual Machine](#virtual-machine)
   - [Video Downloader](#video-downloader)
   - [Video Player](#video-player)
+  - [Video Transcoder](#video-transcoder)
   - [Other](#other)
 
 </details>
@@ -81,6 +82,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Graphics](#graphics)
       - [Screen Recording](#screen-recording)
       - [Audio](#audio)
+      - [Video Transcoder](#video-transcoder)
   - Development
       - [IDE](#ide)
       - [Code Editor](#code-editor)
@@ -425,6 +427,12 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | **Cross-platform** | 28.2k |
 | [iina](https://github.com/iina/iina) | The modern video player for macOS. | **MacOS** | 38k |
 | [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | **Cross-platform** | 14k |
+
+### Video-Transcoder
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | **Cross-platform** | 17.6k |
 
 
 
