@@ -194,7 +194,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | **Cross-platform** | 16.3k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
 
-### Download-Manager
+### Docker
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
