@@ -33,6 +33,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Chat](#chat)
   - [Code Editor](#code-editor)
   - [Download Manager](#download-manager)
+  - [Docker](#docker)
   - [Extensions](#extensions)
   - [File Manager](#file-manager)
   - [Games](#games)
@@ -98,6 +99,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Remote Desktop](#remote-desktop)
       - [Text Editor](#text-editor)
       - [Markdown Editor](#markdown-editor)
+      - [Docker](#docker)
   - Productivity
       - [Calendar](#calendar)
       - [Note Taking](#notetaking)
@@ -192,6 +194,12 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | **Cross-platform** | 16.3k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
 
+### Download-Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | **Cross-platform** | 30.8k |
+
 ### Extensions
 
 | Name | Description | Platform | Stars |
@@ -253,6 +261,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | --- | --- | --- | --- |
 | [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | **Linux** | 49.3k |
 | [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | **Linux** | 35.1k |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | **Linux** | 34.3k |
 
 ### KnowledgeBase
 
@@ -275,6 +284,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. | **Cross-platform** | 42.8k |
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | **Cross-platform** | 21.2k |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | **Cross-platform** | 40.1k |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | **Cross-platform** | 25.1k |
 
 ### Linux-Dashboard
 
