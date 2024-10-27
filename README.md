@@ -431,7 +431,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **Cross-platform** | 26.6k |
+| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **MacOS** | 26.6k |
 
 ### Video-Downloader
 
