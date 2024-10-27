@@ -1,5 +1,5 @@
 
-<table align="center"><tr><td>v0.3.1-alpha</td></tr></table>
+<table align="center"><tr align="center"><td align="center">v0.3.1-alpha</td></tr></table>
 
 <h1 align="center"> definitive-opensource </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
