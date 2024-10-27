@@ -294,6 +294,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | **Cross-platform** | 21.2k |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | **Cross-platform** | 40.1k |
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | **Cross-platform** | 25.1k |
+| [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | **Cross-platform** | 54.1k |
 
 ### Linux-Dashboard
 
