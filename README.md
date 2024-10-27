@@ -32,6 +32,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Calendar](#calendar)
   - [Chat](#chat)
   - [Code Editor](#code-editor)
+  - [Cleaner](#cleaner)
   - [Download Manager](#download-manager)
   - [Docker](#docker)
   - [Extensions](#extensions)
@@ -100,6 +101,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Text Editor](#text-editor)
       - [Markdown Editor](#markdown-editor)
       - [Docker](#docker)
+      - [Cleaner](#cleaner)
   - Productivity
       - [Calendar](#calendar)
       - [Note Taking](#notetaking)
@@ -182,6 +184,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | **Cross-platform** | 163k |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | **Cross-platform** | 25.2k |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | **MacOS** | 21k |
+
+### Cleaner
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | **MacOS** | 3.3k |
+| [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
 
 ### Download-Manager
 
