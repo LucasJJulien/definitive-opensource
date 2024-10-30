@@ -134,6 +134,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | **Cross-platform** | 12.4k |
+| [eqMac](https://github.com/bitgapp/eqMac) | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
 
 ### AI-Image-GUI
 
@@ -410,7 +411,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | **Cross-platform** | 43.5k |
+| [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | **Browser** | 43.5k |
+| [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | **MacOS** | 6.4k |
 
 ### Tools
 
