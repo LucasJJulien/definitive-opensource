@@ -413,6 +413,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | --- | --- | --- | --- |
 | [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | **Browser** | 43.5k |
 | [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | **MacOS** | 6.4k |
+| [Micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | **Cross-platform** | 25.1k |
 
 ### Tools
 
