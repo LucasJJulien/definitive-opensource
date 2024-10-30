@@ -339,6 +339,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | **Cross-platform** | 45.5k |
 | [Notesnook](https://github.com/streetwriters/notesnook) | A fully open source & end-to-end encrypted note taking alternative to Evernote. | **Cross-platform** | 9.7k |
 | [Trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | **Cross-platform** | 27.1k |
+| [StandardNotes](https://github.com/standardnotes/app) | Think fearlessly with end-to-end encrypted notes and files. | **Cross-platform** | 5.3k |
 
 ### Office-Suite
 
@@ -414,6 +415,9 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | **Browser** | 43.5k |
 | [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | **MacOS** | 6.4k |
 | [Micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | **Cross-platform** | 25.1k |
+| [Notepads](https://github.com/0x7c13/Notepads) | A modern, lightweight text editor with a minimalist design. | **Windows** | 8.8k |
+| [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | **Cross-platform** | 10k |
+| [Lite-XL](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | **Cross-platform** | 4.7k |
 
 ### Tools
 
