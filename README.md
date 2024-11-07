@@ -362,7 +362,6 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | **Cross-platform** | Total: 30k+ |
 | [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | **Cross-platform** | 21k |
-| [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
 
 ### ProjectManagement
 
