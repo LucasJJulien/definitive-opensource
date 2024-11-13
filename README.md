@@ -354,6 +354,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Coq](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. | **Neovim** | 3.6k |
 | [Neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | **Neovim** | 6.5k |
 | [Vimwiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | **Neovim** | 8.8k |
+| [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | **Neovim** | 13k |
 
 ### NoteTaking
 
