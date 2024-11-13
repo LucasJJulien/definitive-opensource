@@ -21,6 +21,9 @@ There's plenty of awesome lists on GitHub, many focusing on open source specific
 This list aims to be comprehensive and highly curated, including only the best open source projects. This is, to some extent, guaged with popularity. Only projects with over 5000 stars are generally included, however there can be exceptions. There's plenty of extraordinary projects with just a couple thousand stars.
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
+## Symbols
+❌ = Potentially Abandoned
+
 ## Contents
 
 <details>
@@ -436,7 +439,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust  | **Cross-platform** | 17.2k |
 | [Waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows | **Cross-platform** | 4.2k |
 | [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | **Cross-platform** | 56k |
-| [Hyper](https://github.com/vercel/hyper) | A terminal built on web technologies | **Cross-platform** | 43.3k |
+| [Hyper ❌](https://github.com/vercel/hyper) | A terminal built on web technologies | **Cross-platform** | 43.3k |
 | [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | **Cross-platform** | 58.8k |
 
 ### Text-Editor
