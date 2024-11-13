@@ -29,13 +29,14 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Audio](#audio)
   - [AI Image GUI](#ai-image-gui)
   - [Browser](#browser)
+  - [Browser Extensions](#browser-extensions)
   - [Calendar](#calendar)
   - [Chat](#chat)
   - [Code Editor](#code-editor)
   - [Cleaner](#cleaner)
+  - [Dev Extensions](#dev-extensions)
   - [Download Manager](#download-manager)
   - [Docker](#docker)
-  - [Extensions](#extensions)
   - [File Manager](#file-manager)
   - [Games](#games)
   - [Graphics](#graphics)
@@ -49,6 +50,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Language Package Manager](#language-package-manager)
   - [Mail](#mail)
   - [Markdown-editor](#markdown-editor)
+  - [Neovim Extensions](#neovim-extensions)
   - [Note Taking](#notetaking)
   - [Office Suite](#office-suite)
   - [Package Manager](#package-manager)
@@ -67,6 +69,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Video Player](#video-player)
   - [Video Transcoder](#video-transcoder)
   - [Other](#other)
+  - [Uncategorized](#uncategorized)
+  - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
 
 </details>
 
@@ -75,7 +79,6 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
   - Internet
       - [Browser](#browser)
-          - [Extensions](#extensions)
       - [Download Manager](#download-manager)
   - Media
       - [Video Downloader](#video-downloader)
@@ -122,7 +125,12 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - Linux
       - [Self Hosted Media Management](#self-hosted-media-management)
       - [Linux Dashboard](#linux-dashboard)
+  - Extensions
+      - [Browser Extensions](#browser-extensions)
+      - [Dev Extensions](#dev-extensions)
+      - [Neovim Extensions](#neovim-extensions)
   - [Other](#other)
+  - [Uncategorized](#uncategorized)
   - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
 
 </details>
@@ -193,6 +201,12 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | **MacOS** | 3.3k |
 | [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
 
+### Dev-Extensions
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | **VS-Code, Jetbrains** | 19.1k |
+
 ### Download-Manager
 
 | Name | Description | Platform | Stars |
@@ -210,7 +224,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | **Cross-platform** | 30.8k |
 
-### Extensions
+### Browser-Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -331,6 +345,15 @@ Guaging the quality of software based on popularity alone is not the best way, I
 > The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
 > - Logseq
 > - Anytype
+
+### Neovim-Extensions
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Nvim-Dap](https://github.com/mfussenegger/nvim-dap) | Debug Adapter Protocol client implementation for Neovim | **Neovim** | 5.6k |
+| [Coq](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. | **Neovim** | 3.6k |
+| [Neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | **Neovim** | 6.5k |
+| [Vimwiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | **Neovim** | 8.8k |
 
 ### NoteTaking
 
@@ -470,6 +493,12 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
 | [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | **?** | 49.7k |
 | [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | **Cross-platform** | 72.7k |
+
+### Uncategorized
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | **Cross-platform** | 63k |
 
 
 
