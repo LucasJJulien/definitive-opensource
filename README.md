@@ -56,6 +56,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Package Manager](#package-manager)
   - [Password Manager](#password-manager)
   - [Project Management](#projectmanagement)
+  - [Rag](#rag)
   - [Remote Desktop](#remote-desktop)
   - [Screen Recording](#screen-recording)
   - [System Monitoring](#system-monitoring)
@@ -122,6 +123,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - Artificial Intelligence (AI)
       - [AI Image GUI](#ai-image-gui)
       - [LLM Gui](#llm-gui)
+      - [RAG](#rag)
   - Linux
       - [Self Hosted Media Management](#self-hosted-media-management)
       - [Linux Dashboard](#linux-dashboard)
@@ -308,7 +310,6 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. | **Cross-platform** | 42.8k |
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | **Cross-platform** | 21.2k |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | **Cross-platform** | 40.1k |
-| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | **Cross-platform** | 25.1k |
 | [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | **Cross-platform** | 54.1k |
 
 ### Linux-Dashboard
@@ -395,6 +396,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | **Cross-platform** | 21.6k |
 | [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | **Cross-platform** | 14.6k |
 | [Openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. | **Cross-platform** | 9.3k |
+
+### RAG
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | **Cross-platform** | 25.1k |
+| [Kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | **Docker** | 16.9k |
 
 ### Remote-Desktop
 
@@ -500,6 +508,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | **Cross-platform** | 63k |
+| [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | **Cross-platform** | 20.2k |
 
 
 
