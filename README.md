@@ -147,7 +147,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | **Cross-platform** | 12.4k |
-| [eqMac](https://github.com/bitgapp/eqMac) | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
+| [eqMac ❌](https://github.com/bitgapp/eqMac) | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
+| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | **Cross-platform** | 31.6k |
 
 ### AI-Image-GUI
 
