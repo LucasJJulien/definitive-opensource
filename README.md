@@ -4,7 +4,7 @@
 <h1 align="center"> definitive-opensource </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>License: MIT</code></p>
+<p align="center"><code>Status: Incremental</code> - <code>License: MIT</code></p>
 
 > [!NOTE]  
 > This project is currently in the alpha stage. The list is currently edited directly from the readme, however my goal for the 1.0 release is for all open-source projects to be under a "list.json" file with scripts that automatically generate the readme. This would automate organization and make re-ordering far easier whilst enabling API retrieval of repository stats for always up to date star counts and descriptions. Consult the roadmap for further information regarding development.
@@ -23,6 +23,17 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ## Symbols
 ❌ = Potentially Abandoned
+
+## Status
+<code>Active - Active Development</code>
+
+<code>*Incremental - Minor Updates*</code>
+
+<code>Maintenence - Critical Fixes</code>
+
+<code>Idle - Temporarily Paused</code>
+
+<code>Abandoned - Development Halted</code>
 
 ## Contents
 
