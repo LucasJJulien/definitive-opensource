@@ -454,6 +454,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | **Cross-platform** | 56k |
 | [Hyper ❌](https://github.com/vercel/hyper) | A terminal built on web technologies | **Cross-platform** | 43.3k |
 | [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | **Cross-platform** | 58.8k |
+| [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | **Cross-platform** | 4.2k |
 
 ### Text-Editor
 
