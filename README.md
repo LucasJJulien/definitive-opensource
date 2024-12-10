@@ -21,8 +21,9 @@ There's plenty of awesome lists on GitHub, many focusing on open source specific
 This list aims to be comprehensive and highly curated, including only the best open source projects. This is, to some extent, guaged with popularity. Only projects with over 5000 stars are generally included, however there can be exceptions. There's plenty of extraordinary projects with just a couple thousand stars.
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
-## Symbols
-❌ = Potentially Abandoned
+## Tags
+❌ = Abandoned?
+❓ = No longer open source?
 
 ## Status
 <code>Active - Active Development</code>
@@ -158,14 +159,14 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | **Cross-platform** | 12.4k |
-| [eqMac ❌](https://github.com/bitgapp/eqMac) | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
+| [eqMac ❓](https://github.com/bitgapp/eqMac) | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | **Cross-platform** | 31.6k |
 
 ### AI-Image-GUI
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | **MacOS** | 12.5k |
+| [DiffusionBee ❓](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | **MacOS** | 12.5k |
 | [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | **Cross-platform** | 141k |
 | [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | **Cross-platform** | 30.5k |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | **Cross-platform** | 53.2k |
