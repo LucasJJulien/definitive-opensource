@@ -23,6 +23,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
 ## Tags
 ❌ = Abandoned?
+
 ❓ = No longer open source?
 
 ## Status
