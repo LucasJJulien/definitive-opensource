@@ -50,6 +50,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Chat](#chat)
   - [Code Editor](#code-editor)
   - [Cleaner](#cleaner)
+  - [Document Editor](#document-editor)
   - [Dev Extensions](#dev-extensions)
   - [Download Manager](#download-manager)
   - [Docker](#docker)
@@ -129,6 +130,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Project Management](#projectmanagement)
       - [Knowledge Base](#knowledgebase)
       - [Task Management](#task-management)
+      - [Document Editor](#document-editor)
   - Security/Privacy
       - [Password Manager](#password-manager)
   - Communication
@@ -220,6 +222,12 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | **MacOS** | 3.3k |
 | [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
 
+### Document-Editor
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | **Self-host** | 16.8k |
+
 ### Dev-Extensions
 
 | Name | Description | Platform | Stars |
@@ -235,8 +243,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | **Cross-platform** | 1.5k |
 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | **Cross-platform** | 45.4k |
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | **Cross-platform** | 6.3k |
-| [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | **Cross-platform** | 16.3k |
-| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | **Cross-platform** | 3.9k |
+| [FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | **Self-Host** | 9.4k |
 
 ### Docker
 
@@ -263,6 +270,9 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | **Cross-platform** | 11.1k |
 | [If](https://github.com/gokcehan/lf) | Terminal file manager | **Cross-platform** | 7.7k |
 | [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | **Cross-platform** | 5.8k |
+| [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | **Self-Host** | 10.7k |
+| [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | **Self-host** | 2.2k |
+| [Filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | **Self-host** | 27.1k |
 
 ### Games
 
@@ -361,6 +371,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | **Cross-platform** | 10.3k |
+| [HedgeDoc](https://github.com/hedgedoc/hedgedoc) | HedgeDoc - Ideas grow better together | **Self-Host** | 5.3k |
 
 > The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
 > - Logseq
@@ -434,6 +445,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | **Cross-platform** | 59.7k |
+| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | **Windows** | 30.1k |
 
 ### System-Monitoring
 
@@ -484,6 +496,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | **Cross-platform** | 3.1k |
 | [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | **Cross-platform** | 10.9k |
 | [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
+| [Losslet-Cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing  | **Cross-platform** | 28.5k |
 
 ### Virtual-Machine
 
