@@ -542,6 +542,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | --- | --- | --- | --- |
 | [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | **Cross-platform** | 63k |
 | [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | **Cross-platform** | 20.2k |
+| [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | **Cross-platform** | 1.9k |
+| [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | **N/A** | 12.7k |
 
 
 
