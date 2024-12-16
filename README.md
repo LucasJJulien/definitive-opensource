@@ -56,6 +56,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Docker](#docker)
   - [File Manager](#file-manager)
   - [Games](#games)
+  - [Game Launcher](#game-launcher)
   - [Graphics](#graphics)
   - [Git GUI](#git-gui)
   - [Game Engine](#game-engine)
@@ -138,6 +139,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Mail](#mail)
   - Entertainment
       - [Games](#games)
+      - [Game Launcher](#game-launcher)
   - Artificial Intelligence (AI)
       - [AI Image GUI](#ai-image-gui)
       - [LLM Gui](#llm-gui)
@@ -282,6 +284,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | **Cross-platform** | 10.3k |
 | [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V | **Cross-platform** | 8.4k |
 | [Wesnoth](https://github.com/wesnoth/wesnoth) | An open source, turn-based strategy game with a high fantasy theme. | **Cross-platform** | 5.5k |
+
+### Game Launcher
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | **Cross-platform** | 8.4k |
+| [PlayNite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | **Windows** | 9.7k |
 
 ### Graphics
 
