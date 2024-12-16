@@ -44,6 +44,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 
   - [Audio](#audio)
   - [AI Image GUI](#ai-image-gui)
+  - [AI Code Complete](#ai-code-complete)
   - [Browser](#browser)
   - [Browser Extensions](#browser-extensions)
   - [Calendar](#calendar)
@@ -113,6 +114,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Git GUI](#git-gui)
       - [Game Engine](#game-engine)
       - [Language Package Manager](#language-package-manager)
+      - [AI Code Complete](#ai-code-complete)
   - Utilities
       - [Terminal](#terminal)
       - [File Manager](#file-manager)
@@ -180,6 +182,12 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | **Cross-platform** | 40.8k |
 | [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | **Cross-platform** | 4.5k |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | **Cross-platform** | 4.6k |
+
+### AI-Code-Complete
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | **Self-Host** | 22.2k |
 
 ### Browser
 
