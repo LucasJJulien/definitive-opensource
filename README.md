@@ -196,6 +196,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Zen](https://github.com/zen-browser/desktop) | 🌀 Experience tranquillity while browsing the web without people tracking you! | **Cross-platform** | 14.9k |
 | [Brave](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | **Cross-platform** | 17.7k |
 | [Ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser | **Pre-Alpha** | 21k |
+| [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | **Cross-platform** | 6.1k |
+| [MinBrowser](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | **Cross-platform** | 8k |
 
 ### Calendar
 
