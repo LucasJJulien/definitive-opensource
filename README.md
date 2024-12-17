@@ -83,6 +83,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Terminal](#terminal)
   - [Text Editor](#text-editor)
   - [Tools](#tools)
+  - [Version Manager](#version-manager)
   - [Video Editing](#video-editing)
   - [Virtual Machine](#virtual-machine)
   - [Video Downloader](#video-downloader)
@@ -126,6 +127,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Markdown Editor](#markdown-editor)
       - [Docker](#docker)
       - [Cleaner](#cleaner)
+      - [Version Manager](#version-manager)
   - Productivity
       - [Calendar](#calendar)
       - [Note Taking](#notetaking)
@@ -376,8 +378,6 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | **Cross-platform** | 7.4k |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | **Cross-platform** | 29.5k |
 | [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | **Cross-platform** | 73.9k |
-| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | **Cross-platform** | 79.7k |
-| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | **Cross-platform** | 39.1k |
 
 ### Mail
 
@@ -507,6 +507,15 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | --- | --- | --- | --- |
 | [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | **Windows, Linux** | 19.9k |
 | [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | **Cross-platform** | 29.6k |
+
+### Version-Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [XcodesApp](https://github.com/XcodesOrg/XcodesApp) | The easiest way to install and switch between multiple versions of Xcode - with a mouse click. | **MacOS** | 7.1k |
+| [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | **Cross-platform** | 16.2k |
+| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | **Cross-platform** | 39.1k |
+| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | **Cross-platform** | 79.7k |
 
 ### Video-Editing
 
