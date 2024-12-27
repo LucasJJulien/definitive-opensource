@@ -594,6 +594,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | **Cross-platform** | 1.9k |
 | [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | **N/A** | 12.7k |
 | [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | **Cross-platform** | 28.9k |
+| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | **MacOS** | 28.5k |
 
 
 
