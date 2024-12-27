@@ -51,11 +51,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
   - [Chat](#chat)
   - [Code Editor](#code-editor)
   - [Cleaner](#cleaner)
+  - [Clipboard Manager](#clipboard-manager)
   - [Document Editor](#document-editor)
   - [Dev Extensions](#dev-extensions)
   - [Download Manager](#download-manager)
   - [Docker](#docker)
   - [File Manager](#file-manager)
+  - [Finance](#finance)
   - [Games](#games)
   - [Game Launcher](#game-launcher)
   - [Graphics](#graphics)
@@ -128,6 +130,8 @@ Guaging the quality of software based on popularity alone is not the best way, I
       - [Docker](#docker)
       - [Cleaner](#cleaner)
       - [Version Manager](#version-manager)
+      - [Finance](#finance)
+      - [Clipboard Manager](#clipboard-manager)
   - Productivity
       - [Calendar](#calendar)
       - [Note Taking](#notetaking)
@@ -170,6 +174,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | **Cross-platform** | 12.4k |
 | [eqMac ❓](https://github.com/bitgapp/eqMac) | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | **Cross-platform** | 31.6k |
+| [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | **MacOS** | 16.5k |
 
 ### AI-Image-GUI
 
@@ -236,6 +241,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | **MacOS** | 3.3k |
 | [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
 
+### Clipboard-Manager
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | **MacOS** | 13.4k |
+| [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
+
 ### Document-Editor
 
 | Name | Description | Platform | Stars |
@@ -287,6 +299,13 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | **Self-Host** | 10.7k |
 | [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | **Self-host** | 2.2k |
 | [Filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | **Self-host** | 27.1k |
+
+### Finance
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | **Self-host** | 34.6k |
+| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | **Cross-platform** | 34.2k |
 
 ### Games
 
@@ -525,12 +544,14 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | **Cross-platform** | 10.9k |
 | [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | **Cross-platform** | 8.2k |
 | [Losslet-Cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing  | **Cross-platform** | 28.5k |
+| [Natron](https://github.com/NatronGitHub/Natron) | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  | **Cross-platform** | 4.8k |
 
 ### Virtual-Machine
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **MacOS** | 26.6k |
+| [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | **MacOS** | 5.5k |
 
 ### Video-Downloader
 
@@ -572,6 +593,7 @@ Guaging the quality of software based on popularity alone is not the best way, I
 | [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | **Cross-platform** | 20.2k |
 | [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | **Cross-platform** | 1.9k |
 | [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | **N/A** | 12.7k |
+| [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | **Cross-platform** | 28.9k |
 
 
 
@@ -581,6 +603,8 @@ Although a rare occurence, there are times in which proprietary software is the 
 - [Obsidian](https://obsidian.md/) - One of the most popular note taking apps / markdown editors. Often thought of to be open source, likely because the team behind the project isn't greedy.
 - [LM Studio](https://lmstudio.ai/) - Incredibly powerful and feature rich gui for running local LLM models.
 - [JetBrains](https://www.jetbrains.com/) - A suite of incredibly powerful (and slightly bloated) IDE's.
+- [Raycast](https://www.raycast.com/) - Incredibly powerful all-in-one utility.
+
 
 ## License
 This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
