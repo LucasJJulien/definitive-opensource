@@ -22,9 +22,9 @@ This list aims to be comprehensive and highly curated, including only the best o
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
 ## Tags
-❌ = Potentially abandoned
+❌ - Potentially abandoned
 
-❓ = Potentially no longer open source
+❓ - Potentially no longer open source
 
 ## Status
 ```
