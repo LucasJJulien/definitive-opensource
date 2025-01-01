@@ -1,5 +1,7 @@
 
-<table align="center"><tr><td>v0.3.1-alpha</td></tr></table>
+<p align="center">
+  <table align="center"><tr><td>v0.3.1-alpha</td></tr></table>
+</p>
 
 <h1 align="center"> definitive-opensource </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
@@ -22,20 +24,26 @@ This list aims to be comprehensive and highly curated, including only the best o
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
 ## Tags
-❌ = Abandoned?
+❌ = Potentially abandoned
 
-❓ = No longer open source?
+❓ = Potentially no longer open source
 
 ## Status
-<code>Active - Active Development</code>
-
-<code>*Incremental - Minor Updates*</code>
-
-<code>Maintenence - Critical Fixes</code>
-
-<code>Idle - Temporarily Paused</code>
-
-<code>Abandoned - Development Halted</code>
+```
+Active - Active Development
+```
+```css
+Incremental - Minor Updates
+```
+```
+Maintenence - Critical Fixes
+```
+```
+Idle - Temporarily Paused
+```
+```
+Abandoned - Development Halted
+```
 
 ## Contents
 
