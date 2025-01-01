@@ -22,9 +22,9 @@ This list aims to be comprehensive and highly curated, including only the best o
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
 ## Tags
-![CircleSlash][Slash] - Potentially abandoned
+![CircleSlash][Slash] - Potentially abandoned (pending)
 
-![CircleHelp][Help] - Potentially no longer open source
+![CircleHelp][Help] - Potentially no longer open source (pending)
 
 ## Status
 ```
@@ -178,7 +178,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | **Cross-platform** | 12.4k |
-| [eqMac ❓](https://github.com/bitgapp/eqMac) | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
+| [eqMac](https://github.com/bitgapp/eqMac)![CircleHelp][Help] | macOS System-wide Audio Equalizer & Volume Mixer 🎧 | **MacOS** | 5.7k |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | **Cross-platform** | 31.6k |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | **MacOS** | 16.5k |
 
@@ -186,7 +186,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [DiffusionBee ❓](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | **MacOS** | 12.5k |
+| [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)![CircleHelp][Help] | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. | **MacOS** | 12.5k |
 | [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | **Cross-platform** | 141k |
 | [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | **Cross-platform** | 30.5k |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | **Cross-platform** | 53.2k |
@@ -511,7 +511,7 @@ Abandoned - Development Halted
 | [Wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust  | **Cross-platform** | 17.2k |
 | [Waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows | **Cross-platform** | 4.2k |
 | [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | **Cross-platform** | 56k |
-| [Hyper ❌](https://github.com/vercel/hyper) | A terminal built on web technologies | **Cross-platform** | 43.3k |
+| [Hyper](https://github.com/vercel/hyper)![CircleSlash][Slash] | A terminal built on web technologies | **Cross-platform** | 43.3k |
 | [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | **Cross-platform** | 58.8k |
 | [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | **Cross-platform** | 4.2k |
 
