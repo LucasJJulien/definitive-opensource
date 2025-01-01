@@ -22,9 +22,9 @@ This list aims to be comprehensive and highly curated, including only the best o
 Guaging the quality of software based on popularity alone is not the best way, I do admit, but to keep this list functioning at scale it is the most reliable method.
 
 ## Tags
-❌ - Potentially abandoned
+![Slash][Slash] - Potentially abandoned
 
-❓ - Potentially no longer open source
+![Help][HelpCircle] - Potentially no longer open source
 
 ## Status
 ```
@@ -617,9 +617,6 @@ Although a rare occurence, there are times in which proprietary software is the 
 This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
 
 
-
-
-
-
-
+[HelpCircle]: media/help-circle.svg
+[Slash]: media/slash.svg
 
