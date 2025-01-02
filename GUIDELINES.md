@@ -1,5 +1,8 @@
 
-## Submission Guidelines
+# Submission Guidelines
+Before contributing please familiarize yourself with these guidelines. 
+
+## Criteria
 To avoid the clutter trap that many other lists succumb to as they scale, only the best software is included. But "best" is relative and differs person-to-person. Here, it's mostly guaged based on five criteria. Keep in mind every "guideline" is more of a suggestion and can be skirted, thus, pay greater attention to the real-life examples I've included - they do a much better job of articulating what makes it onto this list. 
 
 ### 1. Popularity
@@ -25,7 +28,7 @@ Lastly, is the software decent?
 ## Examples
 Determing whether software belongs on this list often involves a lot of external research - all of which will be explored in these examples. 
 
-## 1. PearCleaner
+### 1. PearCleaner
 Description - A free, source-available and fair-code licensed mac app cleaner 
 
 Stars - 4.2k
@@ -36,7 +39,7 @@ On the surface PearCleaner woudn't fit with a relatively small amount of stars a
 
 Result: YES
 
-## 2. 
+## 2. Marktext
 Description - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 Stars - 48.1k
@@ -47,7 +50,7 @@ Every part of this project passes the test... except for the fact that it's aban
 
 Result: NO
 
-## Zed Editor
+## 3. Zed Editor
 Description -  Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. 
 
 Stars - 52.3k
