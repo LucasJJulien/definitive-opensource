@@ -614,7 +614,7 @@ Although a rare occurence, there are times in which proprietary software is the 
 
 
 ## License
-This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project even for commercial purposes. See the license tab for further information. 
+This project is released under the ```MIT license```, hereby granting anyone to use, distribute, or modify this project for, but not limited to, commercial purposes. See the license tab for further information. 
 
 
 [Help]: media/circlehelp.svg
