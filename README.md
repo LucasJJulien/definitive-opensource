@@ -18,7 +18,7 @@
 ## Why another list?
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
 
-This list aims to be comprehensive and highly curated, including only the best open source projects. Mostly apps with a solid user base, solid set of contributors, and visible long term growth are included. These criteria are nothing more than suggestions, however, and projects with potential or unique projects can bypass the above criteria. 
+This list aims to be comprehensive and highly curated, including only the best open source projects. Mostly apps with a solid user base, solid set of contributors, and visible long term growth are included. These criteria are nothing more than suggestions, however, and projects with potential or ones that set out on a unique path can bypass the above criteria. 
 
 ## Tags
 ![CircleSlash][Slash] - Potentially abandoned (pending)
