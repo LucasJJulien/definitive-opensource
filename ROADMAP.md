@@ -4,6 +4,7 @@
 - [ ] Add all tags
 - [ ] Contributing page
 - [ ] Guidelines
+- [ ] Restructure AI categories (EX: llm-gui) 
 - [ ] Restructure from ReadME editing to list.json
   - [ ] Develop basic structure of how this will work
   - [ ] Create the json format for this project
