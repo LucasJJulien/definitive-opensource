@@ -386,6 +386,7 @@ Abandoned - Development Halted
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | **Cross-platform** | 40.1k |
 | [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | **Cross-platform** | 54.1k |
 | [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | **Self-host** | 21.4k |
+| [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | **Self-host** | 6.6k |
 
 ### Linux-Dashboard
 
