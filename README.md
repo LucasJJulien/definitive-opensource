@@ -597,6 +597,11 @@ Abandoned - Development Halted
 | [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | **N/A** | 12.7k |
 | [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | **Cross-platform** | 28.9k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | **MacOS** | 28.5k |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | **Self-Host** | 19k |
+| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | **Cross-Platform** | 56.3k |
+| [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | **Self-Host** | 15.3k |
+| [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | **Self-Host** | 3.4k |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | **Self-Host** | 20.5k |
 
 
 
@@ -611,14 +616,14 @@ Although a rare occurence, there are times in which proprietary software is the 
 
 
 ## Removed Projects
-Projects that were once on this list but removed and the reason for removal. 
+Projects that were once on this list but removed - usually due to abandonement or going closed source. 
 
 <details>
   <summary><b>Archive</b></summary> <br />
   
-  - [eqMac](https://github.com/bitgapp/eqMac) - Now closed-source
+  - [eqMac](https://github.com/bitgapp/eqMac) - Closed-source
   - [Hyper](https://github.com/vercel/hyper) - Abandoned
-  - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Now closed-source
+  - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Closed-source
 </details>
 
 
