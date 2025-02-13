@@ -58,6 +58,7 @@ Abandoned - Development Halted
   - [Code Editor](#code-editor)
   - [Cleaner](#cleaner)
   - [Clipboard Manager](#clipboard-manager)
+  - [Database](#database)
   - [Document Editor](#document-editor)
   - [Dev Extensions](#dev-extensions)
   - [Download Manager](#download-manager)
@@ -87,6 +88,7 @@ Abandoned - Development Halted
   - [Remote Desktop](#remote-desktop)
   - [Screen Recording](#screen-recording)
   - [System Monitoring](#system-monitoring)
+  - [Sync](#sync)
   - [Task Management](#task-management)
   - [Terminal](#terminal)
   - [Text Editor](#text-editor)
@@ -124,6 +126,8 @@ Abandoned - Development Halted
       - [Game Engine](#game-engine)
       - [Language Package Manager](#language-package-manager)
       - [AI Code Complete](#ai-code-complete)
+  - Development Tools
+      - [Database](#database)
   - Utilities
       - [Terminal](#terminal)
       - [File Manager](#file-manager)
@@ -138,7 +142,9 @@ Abandoned - Development Halted
       - [Version Manager](#version-manager)
       - [Finance](#finance)
       - [Clipboard Manager](#clipboard-manager)
+  - Data
       - [Backup](#backup)
+      - [Sync](#sync)
   - Productivity
       - [Calendar](#calendar)
       - [Note Taking](#notetaking)
@@ -208,8 +214,8 @@ Abandoned - Development Halted
 | [Kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | **Cross-platform** | 8.6k |
 | [Restic](https://github.com/restic/restic) | Fast, secure, efficient backup program  | **Cross-platform** | 27.6k |
 | [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | **Cross-platform** | 11.7k |
-| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | **Cross-platform** | 67.6k |
 | [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | **Cross-platform** | 11.5k |
+| [rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | **Cross-platform** | 48.8k |
 
 ### Browser
 
@@ -262,6 +268,12 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | **MacOS** | 13.4k |
 | [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
+
+### Database
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web  | **N/A** | 28.7k |
 
 ### Document-Editor
 
@@ -507,6 +519,13 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | **MacOS** | 25.3k |
+
+### Sync
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | **Cross-platform** | 67.6k |
+| [rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | **Cross-platform** | 3.2k |
 
 ### Task-Management
 
