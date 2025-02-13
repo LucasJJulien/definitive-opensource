@@ -620,7 +620,7 @@ Abandoned - Development Halted
 
 
 ## Honorable Mentions of Closed-Source Software
-Although a rare occurence, there are times in which proprietary software is the best option available even amongst closed-source competitors. Here are several such applications that deserve a spot on this list.
+Some proprietary software just deserve recognition.
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A full-fledged video editor with a powerful free tier. 
 - [Obsidian](https://obsidian.md/) - One of the most popular note taking apps / markdown editors. Almost everything about this project screams open source, except for the fact that it's not open source (like no analytics, free unless you want sync, and local storage).
 - [LM Studio](https://lmstudio.ai/) - Feature rich gui for running local LLM models.
