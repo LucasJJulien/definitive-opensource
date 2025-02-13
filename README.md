@@ -21,7 +21,9 @@ There's plenty of awesome lists on GitHub, many focusing on open source specific
 This list aims to be comprehensive and highly curated, including only the best open source projects. Mostly apps with a solid user base, solid set of contributors, and visible long term growth are included. These criteria are nothing more than suggestions, however, and projects with potential or ones that set out on a unique path can bypass the above criteria. 
 
 ## Tags
-```In Development```
+```SI``` - Security Incident
+
+```PA``` - Potentially Abandoned
 
 ## Status
 ```
