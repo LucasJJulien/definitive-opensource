@@ -72,7 +72,7 @@ Abandoned - Development Halted
   - [Game Engine](#game-engine)
   - [IDE](#ide)
   - [Self Hosted Media Management](#self-hosted-media-management)
-  - [Knowledge Base](#knowledgebase)
+  - [Knowledge Base](#knowledge-base)
   - [LLM Gui](#llm-gui)
   - [Linux Dashboard](#linux-dashboard)
   - [Language Package Manager](#language-package-manager)
@@ -83,7 +83,7 @@ Abandoned - Development Halted
   - [Office Suite](#office-suite)
   - [Package Manager](#package-manager)
   - [Password Manager](#password-manager)
-  - [Project Management](#projectmanagement)
+  - [Project Management](#project-management)
   - [Rag](#rag)
   - [Remote Desktop](#remote-desktop)
   - [Screen Recording](#screen-recording)
@@ -149,8 +149,8 @@ Abandoned - Development Halted
       - [Calendar](#calendar)
       - [Note Taking](#notetaking)
       - [Office Suite](#office-suite)
-      - [Project Management](#projectmanagement)
-      - [Knowledge Base](#knowledgebase)
+      - [Project Management](#project-management)
+      - [Knowledge Base](#knowledge-base)
       - [Task Management](#task-management)
       - [Document Editor](#document-editor)
   - Security/Privacy
@@ -188,7 +188,7 @@ Abandoned - Development Halted
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | **Cross-platform** | 31.6k |
 | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | **MacOS** | 16.5k |
 
-### AI-Image-GUI
+### AI Image GUI
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -201,7 +201,7 @@ Abandoned - Development Halted
 | [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | **Cross-platform** | 4.5k |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | **Cross-platform** | 4.6k |
 
-### AI-Code-Complete
+### AI Code Complete
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -239,7 +239,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Signal](https://github.com/signalapp) | A private messenger. | **Cross-platform** | Total: 50k+ |
 
-### Code-editor
+### Code Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -262,7 +262,7 @@ Abandoned - Development Halted
 | [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | **MacOS** | 3.3k |
 | [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
 
-### Clipboard-Manager
+### Clipboard Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -275,20 +275,20 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web  | **N/A** | 28.7k |
 
-### Document-Editor
+### Document Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | **Self-host** | 16.8k |
 
-### Dev-Extensions
+### Dev Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | **VS-Code, Jetbrains** | 19.1k |
 | [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | **VS-Code** | 14k |
 
-### Download-Manager
+### Download Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -304,14 +304,14 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | **Cross-platform** | 30.8k |
 
-### Browser-Extensions
+### Browser Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | **Chromium and Firefox** | 49.9k |
 | [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | **Chromium and Firefox** | 19.6k |
 
-### File-Manager
+### File Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -358,13 +358,13 @@ Abandoned - Development Halted
 | [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | **Cross-platform** | 19.5k |
 | [Blender](https://github.com/blender/blender) | Official mirror of Blender | **Cross-platform** | 13k |
 
-### Git-GUI
+### Git GUI
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Github Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | **Cross-platform** | 19.7k |
 
-### Game-Engine
+### Game Engine
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -376,7 +376,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | **Cross-platform** | 17.2k |
 
-### Self-Hosted-Media-Management
+### Self Hosted Media Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -384,7 +384,7 @@ Abandoned - Development Halted
 | [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | **Linux** | 35.1k |
 | [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | **Linux** | 34.3k |
 
-### KnowledgeBase
+### Knowledge Base
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -396,7 +396,7 @@ Abandoned - Development Halted
 | [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | **Cross-platform** | 19.5k |
 | [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. | **Cross-platform** | 18.8k |
 
-### LLM-Gui
+### LLM Gui
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -410,7 +410,7 @@ Abandoned - Development Halted
 | [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | **Self-host** | 21.4k |
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | **Self-host** | 6.6k |
 
-### Linux-Dashboard
+### Linux Dashboard
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -419,7 +419,7 @@ Abandoned - Development Halted
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | **Linux** | 25.6k |
 | [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | **Linux** | 27.2k |
 
-### Language-Package-Manager
+### Language Package Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -433,7 +433,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | **Cross-platform** | 15.5k |
 
-### Markdown-Editor
+### Markdown Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -444,7 +444,7 @@ Abandoned - Development Halted
 > - Logseq
 > - Anytype
 
-### Neovim-Extensions
+### Neovim Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -463,14 +463,14 @@ Abandoned - Development Halted
 | [Trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | **Cross-platform** | 27.1k |
 | [StandardNotes](https://github.com/standardnotes/app) | Think fearlessly with end-to-end encrypted notes and files. | **Cross-platform** | 5.3k |
 
-### Office-Suite
+### Office Suite
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | **Cross-platform** | 2.8k |
 | [LibreOffice](https://github.com/libreoffice) | No description provided. | **Cross-platform** | 2.8k |
 
-### Package-Manager
+### Package Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -478,14 +478,14 @@ Abandoned - Development Halted
 | [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | **Windows** | 10.3k |
 | [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | **Cross-platform** | 12.5k |
 
-### Password-Manager
+### Password Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | **Cross-platform** | Total: 30k+ |
 | [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | **Cross-platform** | 21k |
 
-### ProjectManagement
+### Project Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -501,20 +501,20 @@ Abandoned - Development Halted
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | **Cross-platform** | 25.1k |
 | [Kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | **Docker** | 16.9k |
 
-### Remote-Desktop
+### Remote Desktop
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | **Cross-platform** | 74.2k |
 
-### Screen-recording
+### Screen Recording
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | **Cross-platform** | 59.7k |
 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | **Windows** | 30.1k |
 
-### System-Monitoring
+### System Monitoring
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -527,7 +527,7 @@ Abandoned - Development Halted
 | [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | **Cross-platform** | 67.6k |
 | [rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | **Cross-platform** | 3.2k |
 
-### Task-Management
+### Task Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -544,7 +544,7 @@ Abandoned - Development Halted
 | [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | **Cross-platform** | 58.8k |
 | [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | **Cross-platform** | 4.2k |
 
-### Text-Editor
+### Text Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -564,7 +564,7 @@ Abandoned - Development Halted
 | [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | **Cross-Platform** | 56.3k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | **MacOS** | 28.5k |
 
-### Version-Manager
+### Version Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -573,7 +573,7 @@ Abandoned - Development Halted
 | [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | **Cross-platform** | 39.1k |
 | [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | **Cross-platform** | 79.7k |
 
-### Video-Editing
+### Video Editing
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -583,21 +583,21 @@ Abandoned - Development Halted
 | [Losslet-Cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing  | **Cross-platform** | 28.5k |
 | [Natron](https://github.com/NatronGitHub/Natron) | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  | **Cross-platform** | 4.8k |
 
-### Virtual-Machine
+### Virtual Machine
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **MacOS** | 26.6k |
 | [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | **MacOS** | 5.5k |
 
-### Video-Downloader
+### Video Downloader
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | **Cross-platform** | 85k |
 | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | **Cross-platform** | 8.7k |
 
-### Video-Player
+### Video Player
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
@@ -605,7 +605,7 @@ Abandoned - Development Halted
 | [iina](https://github.com/iina/iina) | The modern video player for macOS. | **MacOS** | 38k |
 | [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | **Cross-platform** | 14k |
 
-### Video-Transcoder
+### Video Transcoder
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
