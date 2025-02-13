@@ -1,6 +1,6 @@
 
 # Submission Guidelines
-Before adding a project please familiarize yourself with these guidelines. 
+This list is for utilities and applications you can download. Development technologies like frameworks or databases aren't allowed. 
 
 ## Criteria
 To avoid the clutter trap that many other lists succumb to as they scale, only the best software is included. But "best". Here, it's mostly guaged based on five criteria. Keep in mind every criteria is more of a suggestion and can be skirted, thus, pay greater attention to the real-life examples I've included - they do a much better job of articulating what makes it onto this list. 
@@ -8,13 +8,8 @@ To avoid the clutter trap that many other lists succumb to as they scale, only t
 ### 1. Popularity
 Projects with over 5000 stars are preferred. Popularity is far from the best method, but people use specific software for a reason - probably because it's halfway decent. Again, this isn't foolproof since people can be allergic to change, but the other criteria can weed out those exceptions. 
 
-```css
-Note: Criteria [2,3,4] are closely intertwined
-```
-
 ### 2. A Foundation
-The project should have a solid foundation:
-- A solid set of contributors, not neccesarily in quality but commitment
+A solid set of contributors, not neccesarily in quality but commitment
 
 ### 3. Activity
 The project must show signs of recent activity. Abandoned software will not be placed on this list - **no expections.** 
@@ -35,11 +30,12 @@ Stars: 4.2k
 
 Contributors: 7
 
+
 On the surface PearCleaner woudn't fit with a relatively small amount of stars and just seven contributors. But research brings about the following conclusion: PearCleaner is one of two major app cleaners for MacOS - the other being the proprietary AppCleaner. Despite just 7 contributors, they have been continuously pushing updates on a ~two week interval. They have a solid roadmap for future updates and been delivering on those promises. 
 
 Result: YES
 
-## 2. Marktext
+### 2. Marktext
 Description: A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 Stars: 48.1k
@@ -50,7 +46,7 @@ Every part of this project passes the test... except for the fact that it's aban
 
 Result: NO
 
-## 3. Zed Editor
+### 3. Zed Editor
 Description -  Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. 
 
 Stars: 52.3k
