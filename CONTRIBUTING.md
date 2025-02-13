@@ -1,8 +1,5 @@
 
 # Contributing to definitive-opensource
-Thank you for interest in contributing to this project. Finding open source projects is a collective task and every contribution is valued.
+Thank you for your interest in contributing to this project. Finding open source projects is a collective task and every contribution is valued.
 
-> [!CAUTION]  
-> Be sure to read the guidelines for software submissions.
-
-## Ideas
+Proper guidelines are currently in development. For now, just follow the existing structure and make sure to read the submission guidelines. 
