@@ -58,7 +58,6 @@ Abandoned - Development Halted
   - [Code Editor](#code-editor)
   - [Cleaner](#cleaner)
   - [Clipboard Manager](#clipboard-manager)
-  - [Database](#database)
   - [Document Editor](#document-editor)
   - [Dev Extensions](#dev-extensions)
   - [Download Manager](#download-manager)
@@ -126,8 +125,6 @@ Abandoned - Development Halted
       - [Game Engine](#game-engine)
       - [Language Package Manager](#language-package-manager)
       - [AI Code Complete](#ai-code-complete)
-  - Development Tools
-      - [Database](#database)
   - Utilities
       - [Terminal](#terminal)
       - [File Manager](#file-manager)
@@ -268,12 +265,6 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | **MacOS** | 13.4k |
 | [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | **Windows, Linux** | 3.1k |
-
-### Database
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [Surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web  | **N/A** | 28.7k |
 
 ### Document Editor
 
