@@ -29,7 +29,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
-```MacOS```, ```Windows```, ```Linux```, ```Host```, ```Web```, ```VSCode```, ```JetB```, ```Chromium```, ```Firefox```, ```N/A```
+```MacOS```, ```Windows```, ```Linux```, ```Host```, ```Web```, ```VSCode```, ```JetB```, ```Chromium```, ```Firefox```, ```CLI```, ```N/A```
 
 ## Project Status
 ```css
@@ -211,17 +211,17 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```Host``` | 22.2k |
+| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```Host``` ```JetB``` ```VSCode``` | 22.2k |
 
 ### Backup
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | ```Cross``` | 8.6k |
-| [Restic](https://github.com/restic/restic) | Fast, secure, efficient backup program  | ```Cross``` | 27.6k |
+| [Kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | ```Cross``` ```CLI``` | 8.6k |
+| [Restic](https://github.com/restic/restic) | Fast, secure, efficient backup program  | ```Cross``` ```CLI``` | 27.6k |
 | [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | ```Cross``` | 11.7k |
-| [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | ```Cross``` | 11.5k |
-| [rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` | 48.8k |
+| [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | ```Cross``` ```CLI``` | 11.5k |
+| [rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` ```CLI``` | 48.8k |
 
 ### Browser
 
@@ -237,7 +237,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | ```Cross``` | 31.9k |
+| [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | ```Host``` | 31.9k |
 
 ### Chat
 
@@ -250,13 +250,13 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | 48.4k |
-| [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` | 33.4k |
+| [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` ```CLI``` | 33.4k |
 | [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | 34.4k |
-| [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` | 36.4k |
-| [Neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` | 82.5k |
-| [Lunarvim](https://github.com/LunarVim/LunarVim) | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. | ```Cross``` | 18.2k |
-| [Spacevim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` | 20.3k |
-| [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` | 24.6k |
+| [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` ```CLI``` | 36.4k |
+| [Neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` ```CLI``` | 82.5k |
+| [Lunarvim](https://github.com/LunarVim/LunarVim) | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. | ```Cross``` ```CLI``` | 18.2k |
+| [Spacevim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` ```CLI``` | 20.3k |
+| [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` ```CLI``` | 24.6k |
 | [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | 163k |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | 25.2k |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | 21k |
@@ -316,11 +316,11 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.  | ```Cross``` | 32k |
 | [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | ```Windows``` | 34.2k |
-| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | ```Linux``` | 19.2k |
-| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | ```Cross``` | 15.6k |
-| [Ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | ```Cross``` | 15.5k |
+| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | ```Linux``` ```CLI``` | 19.2k |
+| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | ```Cross``` ```CLI``` | 15.6k |
+| [Ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | ```Cross``` ```CLI``` | 15.5k |
 | [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | ```Cross``` | 11.1k |
-| [If](https://github.com/gokcehan/lf) | Terminal file manager | ```Cross``` | 7.7k |
+| [If](https://github.com/gokcehan/lf) | Terminal file manager | ```Cross``` ```CLI``` | 7.7k |
 | [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | ```Cross``` | 5.8k |
 | [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```Host``` | 10.7k |
 | [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```Host``` | 2.2k |
@@ -414,9 +414,9 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | ```Cross``` | 7.4k |
-| [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | ```Cross``` | 29.5k |
-| [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` | 73.9k |
+| [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | ```Cross``` ```CLI``` | 7.4k |
+| [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | ```Cross``` ```CLI``` | 29.5k |
+| [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` ```CLI``` | 73.9k |
 
 ### Mail
 
@@ -439,7 +439,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | ```Cross``` | 85k |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | ```Cross``` ```CLI``` | 85k |
 | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | ```Cross``` | 8.7k |
 | [Cobalt](https://github.com/imputnet/cobalt) | best way to save what you love  | ```Web``` | 27.7k |
 
@@ -481,7 +481,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | ```MacOS``` ```Linux``` | 41.2k |
+| [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | ```MacOS``` ```Linux``` ```CLI``` | 41.2k |
 | [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | ```Windows``` | 10.3k |
 | [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | ```Cross``` | 12.5k |
 
@@ -531,8 +531,8 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | ```Cross``` | 67.6k |
-| [rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | ```Cross``` | 3.2k |
+| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | ```Cross``` ```CLI``` | 67.6k |
+| [rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | ```Cross``` ```CLI``` | 3.2k |
 
 ### Task Management
 
@@ -557,9 +557,9 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | ```Web``` | 43.5k |
 | [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | ```MacOS``` | 6.4k |
-| [Micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | ```Cross``` | 25.1k |
+| [Micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | ```Cross``` ```CLI``` | 25.1k |
 | [Notepads](https://github.com/0x7c13/Notepads) | A modern, lightweight text editor with a minimalist design. | ```Windows``` | 8.8k |
-| [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | ```Cross``` | 10k |
+| [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | ```Cross``` ```CLI``` | 10k |
 | [Lite-XL](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | ```Cross``` | 4.7k |
 
 ### Tools
@@ -576,9 +576,9 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [XcodesApp](https://github.com/XcodesOrg/XcodesApp) | The easiest way to install and switch between multiple versions of Xcode - with a mouse click. | ```MacOS``` | 7.1k |
-| [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | ```Cross``` | 16.2k |
-| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` | 39.1k |
-| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` | 79.7k |
+| [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | ```Cross``` ```CLI``` | 16.2k |
+| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` ```CLI``` | 39.1k |
+| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` ```CLI``` | 79.7k |
 
 ### Video Editing
 
