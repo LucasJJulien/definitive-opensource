@@ -35,6 +35,8 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ```🚧``` - Critically unstable/buggy
 
+```❌``` - On watch for removal
+
 ### Awards (At 1k Stars)
 
 ```🏆``` - Crown of open source
@@ -96,6 +98,7 @@ Abandoned - Development Halted
   - [Graphics](#graphics)
   - [Git GUI](#git-gui)
   - [Game Engine](#game-engine)
+  - [Home Automation](#home-automation)
   - [IDE](#ide)
   - [Knowledge Base](#knowledge-base)
   - [LLM Gui](#llm-gui)
@@ -196,6 +199,7 @@ Abandoned - Development Halted
   - Media/Home Server
       - [Media Management](#media-management)
       - [Linux Dashboard](#linux-dashboard)
+      - [Home Automation](#home-automation)
   - Extensions
       - [Browser Extensions](#browser-extensions)
       - [Dev Extensions](#dev-extensions)
@@ -292,6 +296,7 @@ Abandoned - Development Halted
 | [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | 163k |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | 25.2k |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | 21k |
+| [code-server](https://github.com/coder/code-server) | VS Code in the browser | ```SelfHost``` | 69.8k |
 
 ### Cleaner
 
@@ -334,6 +339,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | ```Cross``` | 30.8k |
+| [dockge](https://github.com/louislam/dockge) ```❌``` | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | 15k |
 
 ### File Manager
 
@@ -357,6 +363,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | ```SelfHost``` | 34.6k |
 | [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | ```Cross``` | 34.2k |
+| [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | ```SelfHost``` | 5.3k |
 
 ### Games
 
@@ -381,6 +388,7 @@ Abandoned - Development Halted
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.  | ```Web``` | 7.9k |
 | [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | ```Cross``` | 19.5k |
 | [Blender](https://github.com/blender/blender) | Official mirror of Blender | ```Cross``` | 13k |
+| [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | ```Cross``` | 1.9k |
 
 ### Git GUI
 
@@ -393,6 +401,13 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | ```Cross``` | 90.2k |
+
+### Home Automation
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [HomeAssistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```SelfHost``` ```Cross``` | 72.7k |
+| [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | 21.1k |
 
 ### IDE
 
@@ -523,6 +538,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | ```Cross``` | Total: 30k+ |
 | [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | ```Cross``` | 21k |
+| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | 41.8k |
 
 ### Project Management
 
@@ -673,6 +689,8 @@ Abandoned - Development Halted
 | [Boring Notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | 2.2k |
 | [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | 16.6k |
 | [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | 2.1k |
+| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | 2.2k |
+| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | 3.9k |
 
 ### Linux
 
@@ -691,10 +709,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | 2.2k |
-| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | 3.9k |
 | [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | 49.7k |
-| [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```Cross``` | 72.7k |
 
 ### Uncategorized
 
@@ -702,7 +717,6 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` | 63k |
 | [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | ```Cross``` | 20.2k |
-| [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | ```Cross``` | 1.9k |
 | [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | ```N/A``` | 12.7k |
 | [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | 28.9k |
 | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | 19k |
