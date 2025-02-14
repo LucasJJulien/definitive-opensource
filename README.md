@@ -286,9 +286,9 @@ Abandoned - Development Halted
 | [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | 34.4k |
 | [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` ```CLI``` | 36.4k |
 | [Neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` ```CLI``` | 82.5k |
-| [Lunarvim](https://github.com/LunarVim/LunarVim) | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. | ```Cross``` ```CLI``` | 18.2k |
 | [Spacevim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` ```CLI``` | 20.3k |
 | [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` ```CLI``` | 24.6k |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy  | ```Cross``` ```CLI``` | 19.2k |
 | [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | 163k |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | 25.2k |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | 21k |
@@ -731,6 +731,7 @@ Projects that were once on this list but removed - usually due to abandonement o
   - [eqMac](https://github.com/bitgapp/eqMac) - Closed-source
   - [Hyper](https://github.com/vercel/hyper) - Abandoned
   - [DiffusionBee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Closed-source
+  - [Lunarvim](https://github.com/LunarVim/LunarVim) - Abandoned
 </details>
 
 
