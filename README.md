@@ -70,13 +70,14 @@ Abandoned - Development Halted
   - [Git GUI](#git-gui)
   - [Game Engine](#game-engine)
   - [IDE](#ide)
-  - [Self Hosted Media Management](#self-hosted-media-management)
   - [Knowledge Base](#knowledge-base)
   - [LLM Gui](#llm-gui)
   - [Linux Dashboard](#linux-dashboard)
   - [Language Package Manager](#language-package-manager)
   - [Mail](#mail)
   - [Markdown-editor](#markdown-editor)
+  - [Media Downloader](#media-downloader)
+  - [Media Management](#media-management)
   - [Neovim Extensions](#neovim-extensions)
   - [Note Taking](#notetaking)
   - [Office Suite](#office-suite)
@@ -95,7 +96,6 @@ Abandoned - Development Halted
   - [Version Manager](#version-manager)
   - [Video Editing](#video-editing)
   - [Virtual Machine](#virtual-machine)
-  - [Video Downloader](#video-downloader)
   - [Video Player](#video-player)
   - [Video Transcoder](#video-transcoder)
   - [Other](#other)
@@ -111,7 +111,7 @@ Abandoned - Development Halted
       - [Browser](#browser)
       - [Download Manager](#download-manager)
   - Media
-      - [Video Downloader](#video-downloader)
+      - [Media Downloader](#media-downloader)
       - [Video Editing](#video-editing)
       - [Video Player](#video-player)
       - [Graphics](#graphics)
@@ -162,13 +162,16 @@ Abandoned - Development Halted
       - [AI Image GUI](#ai-image-gui)
       - [LLM Gui](#llm-gui)
       - [RAG](#rag)
-  - Linux
-      - [Self Hosted Media Management](#self-hosted-media-management)
+  - Media/Home Server
+      - [Media Management](#media-management)
       - [Linux Dashboard](#linux-dashboard)
   - Extensions
       - [Browser Extensions](#browser-extensions)
       - [Dev Extensions](#dev-extensions)
       - [Neovim Extensions](#neovim-extensions)
+  - [MacOS](#macos)
+  - [Linux](#linux)
+  - [Windows](#windows)
   - [Other](#other)
   - [Uncategorized](#uncategorized)
   - [Honorable Mentions of Closed-Source Software](#honorable-mentions-of-closed-source-software)
@@ -344,7 +347,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Graphite](https://github.com/GraphiteEditor/Graphite) | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.  | **Browser** | 7.9k |
+| [Graphite](https://github.com/GraphiteEditor/Graphite) | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.  | **Web** | 7.9k |
 | [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | **Cross-platform** | 19.5k |
 | [Blender](https://github.com/blender/blender) | Official mirror of Blender | **Cross-platform** | 13k |
 
@@ -365,14 +368,6 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | **Cross-platform** | 17.2k |
-
-### Self Hosted Media Management
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | **Linux** | 49.3k |
-| [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | **Linux** | 35.1k |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | **Linux** | 34.3k |
 
 ### Knowledge Base
 
@@ -433,6 +428,22 @@ Abandoned - Development Halted
 > The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
 > - Logseq
 > - Anytype
+
+### Media Downloader
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | **Cross-platform** | 85k |
+| [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | **Cross-platform** | 8.7k |
+| [Cobalt](https://github.com/imputnet/cobalt) | best way to save what you love  | **Web** | 27.7k |
+
+### Media Management
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | **Linux** | 49.3k |
+| [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | **Linux** | 35.1k |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | **Linux** | 34.3k |
 
 ### Neovim Extensions
 
@@ -580,13 +591,6 @@ Abandoned - Development Halted
 | [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | **MacOS** | 26.6k |
 | [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | **MacOS** | 5.5k |
 
-### Video Downloader
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | **Cross-platform** | 85k |
-| [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | **Cross-platform** | 8.7k |
-
 ### Video Player
 
 | Name | Description | Platform | Stars |
@@ -601,6 +605,24 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | **Cross-platform** | 17.6k |
 
+
+> [!NOTE]  
+> In an effort to prevent duplication, categorizing apps into the below OS specific sections is ill-advised. They exist only for software that is so specific to an OS that the app's concept could not be ported to other platforms. 
+
+### MacOS
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### Linux
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+
+### Windows
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
 
 
 ### Other
