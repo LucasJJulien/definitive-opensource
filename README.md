@@ -107,6 +107,7 @@ Abandoned - Development Halted
   - [Screen Recording](#screen-recording)
   - [System Monitoring](#system-monitoring)
   - [Sync](#sync)
+  - [Shell](#shell)
   - [Task Management](#task-management)
   - [Terminal](#terminal)
   - [Text Editor](#text-editor)
@@ -155,8 +156,8 @@ Abandoned - Development Halted
       - [Docker](#docker)
       - [Cleaner](#cleaner)
       - [Version Manager](#version-manager)
-      - [Finance](#finance)
       - [Clipboard Manager](#clipboard-manager)
+      - [Shell](#shell)
   - Data
       - [Backup](#backup)
       - [Sync](#sync)
@@ -168,6 +169,7 @@ Abandoned - Development Halted
       - [Knowledge Base](#knowledge-base)
       - [Task Management](#task-management)
       - [Document Editor](#document-editor)
+      - [Finance](#finance)
   - Security/Privacy
       - [Password Manager](#password-manager)
   - Communication
@@ -427,6 +429,8 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Mise](https://github.com/jdx/mise) | dev tools, env vars, task runner  | ```Cross``` ```CLI``` | 13.3k |
+| [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more  | ```Cross``` ```CLI``` | 22.8k |
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | ```Cross``` ```CLI``` | 7.4k |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | ```Cross``` ```CLI``` | 29.5k |
 | [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` ```CLI``` | 73.9k |
@@ -524,6 +528,7 @@ Abandoned - Development Halted
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | ```Cross``` | 25.1k |
 | [Kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | ```SelfHost``` | 16.9k |
 | [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | ```SelfHost``` | 6.6k |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | ```SelfHost``` | 35.7k |
 
 ### Remote Desktop
 
@@ -550,6 +555,12 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | ```Cross``` ```CLI``` | 67.6k |
 | [rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | ```Cross``` ```CLI``` | 3.2k |
+
+### Shell
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Fish Shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | ```Cross``` ```CLI``` | 28k |
 
 ### Task Management
 
