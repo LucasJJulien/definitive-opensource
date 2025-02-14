@@ -22,9 +22,21 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ## Tags
 
-```SI``` - Security Incident
+### Alerts
 
-```PA``` - Potentially Abandoned
+```SI``` ```🟢``` ```🟡``` ```🟠``` ```🔴``` - Security incident **(Minor, Moderate, Major, Critical)**
+
+```🚫``` - Potentially abandoned
+
+```🛑``` - Potentially closed source
+
+```⁉️``` - Suspicious license
+
+```⭕``` - Corporate influence
+
+```🧪``` - Experimental (Pre-Alpha)
+
+
 
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
@@ -229,7 +241,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Zen](https://github.com/zen-browser/desktop) | 🌀 Experience tranquillity while browsing the web without people tracking you! | ```Cross``` | 14.9k |
 | [Brave](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | ```Cross``` | 17.7k |
-| [Ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser | ```N/A``` | 21k |
+| [Ladybird](https://github.com/LadybirdBrowser/ladybird) ```🧪``` | Truly independent web browser | ```N/A``` | 21k |
 | [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | 6.1k |
 | [MinBrowser](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | 8k |
 
@@ -249,7 +261,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | 48.4k |
+| [Zed](https://github.com/zed-industries/zed) ```⭕``` | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | 48.4k |
 | [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` ```CLI``` | 33.4k |
 | [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | 34.4k |
 | [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` ```CLI``` | 36.4k |
@@ -381,7 +393,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. | ```Cross``` | 32.5k |
 | [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | ```Cross``` | 4.3k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. | ```Cross``` | 59.6k |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ```⭕``` | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. | ```Cross``` | 59.6k |
 | [Affine](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | ```Cross``` | 41.3k |
 | [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | ```Cross``` | 27.8k |
 | [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | ```Cross``` | 19.5k |
