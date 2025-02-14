@@ -2,7 +2,7 @@
 name: "\U0001F3F7️ Tag update"
 about: Update tags of projects
 title: "[TAG]"
-labels: ''
+labels: project tag
 assignees: ''
 
 ---
