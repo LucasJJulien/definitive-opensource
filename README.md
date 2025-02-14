@@ -7,7 +7,7 @@
 <p align="center"><code>Status: Active</code> - <code>License: MIT</code></p>
 
 > [!TIP]  
-> Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
+> Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
 
 > [!CAUTION]  
 > Starcounts are hard-coded and may not reflect latest values. API retrieval system of stars currently in development.
