@@ -35,7 +35,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ```🚧``` - Critically unstable/buggy
 
-### Awards (Not yet used)
+### Awards (At 1k Stars)
 
 ```🏆``` - Crown of open source
 
@@ -560,6 +560,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | ```MacOS``` | 25.3k |
+| [Vitals](https://github.com/corecoding/Vitals) | A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load. | ```Linux``` | 1.6k |
 
 ### Sync
 
@@ -669,7 +670,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [boring notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | 2.2k |
+| [Boring Notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | 2.2k |
 | [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | 16.6k |
 | [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | 2.1k |
 
@@ -677,6 +678,8 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [Flatseal](https://github.com/tchx84/Flatseal) | Manage Flatpak permissions | ```Linux``` | 1.3k |
+| [Extension Manager](https://github.com/mjakeman/extension-manager) | A utility for browsing and installing GNOME Shell Extensions. | ```Linux``` | 1.1k |
 
 ### Windows
 
