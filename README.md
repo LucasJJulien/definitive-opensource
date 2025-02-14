@@ -24,7 +24,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ### Alerts
 
-```SI``` ```🟢``` ```🟡``` ```🟠``` ```🔴``` - Security incident **(Minor, Moderate, Major, Critical)**
+```🟢``` ```🟡``` ```🟠``` ```🔴``` - Security incident **(Minor, Moderate, Major, Critical)**
 
 ```🚫``` - Potentially abandoned
 
@@ -41,7 +41,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
-```MacOS```, ```Windows```, ```Linux```, ```Host```, ```Web```, ```VSCode```, ```JetB```, ```Chromium```, ```Firefox```, ```CLI```, ```N/A```
+```MacOS```, ```Windows```, ```Linux```, ```IOS```, ```Android```, ```SelfHost```, ```Web```, ```VSCode```, ```JetB```, ```Chromium```, ```Firefox```, ```CLI```, ```N/A```
 
 ## Project Status
 ```css
@@ -223,7 +223,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```Host``` ```JetB``` ```VSCode``` | 22.2k |
+| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetB``` ```VSCode``` | 22.2k |
 
 ### Backup
 
@@ -245,11 +245,18 @@ Abandoned - Development Halted
 | [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | 6.1k |
 | [MinBrowser](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | 8k |
 
+### Browser Extensions
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | 49.9k |
+| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | 19.6k |
+
 ### Calendar
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | ```Host``` | 31.9k |
+| [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | ```SelfHost``` | 31.9k |
 
 ### Chat
 
@@ -290,7 +297,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```Host``` | 16.8k |
+| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```SelfHost``` | 16.8k |
 
 ### Dev Extensions
 
@@ -307,20 +314,13 @@ Abandoned - Development Halted
 | [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | ```Cross``` | 1.5k |
 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | ```Cross``` | 45.4k |
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | 6.3k |
-| [FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```Host``` | 9.4k |
+| [FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | 9.4k |
 
 ### Docker
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | ```Cross``` | 30.8k |
-
-### Browser Extensions
-
-| Name | Description | Platform | Stars |
-| --- | --- | --- | --- |
-| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | 49.9k |
-| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | 19.6k |
 
 ### File Manager
 
@@ -334,15 +334,15 @@ Abandoned - Development Halted
 | [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | ```Cross``` | 11.1k |
 | [If](https://github.com/gokcehan/lf) | Terminal file manager | ```Cross``` ```CLI``` | 7.7k |
 | [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | ```Cross``` | 5.8k |
-| [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```Host``` | 10.7k |
-| [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```Host``` | 2.2k |
-| [Filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```Host``` | 27.1k |
+| [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```SelfHost``` | 10.7k |
+| [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```SelfHost``` | 2.2k |
+| [Filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```SelfHost``` | 27.1k |
 
 ### Finance
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | ```Host``` | 34.6k |
+| [Maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | ```SelfHost``` | 34.6k |
 | [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | ```Cross``` | 34.2k |
 
 ### Games
@@ -403,15 +403,16 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ```Host``` | 42.9k |
+| [Ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. | ```Cross``` ```SelfHost``` ```CLI``` | 126k |
+| [Open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ```SelfHost``` | 42.9k |
 | [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | ```Cross``` | 70k |
 | [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) | ```Cross``` | 22.7k |
 | [Lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. | ```Cross``` | 42.8k |
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | ```Cross``` | 21.2k |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | ```Cross``` | 40.1k |
 | [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | 54.1k |
-| [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```Host``` | 21.4k |
-| [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | ```Host``` | 6.6k |
+| [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | 21.4k |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | 12.1k |
 
 ### Linux Dashboard
 
@@ -420,7 +421,7 @@ Abandoned - Development Halted
 | [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Linux``` | 11.1k |
 | [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | 13.2k |
 | [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | 25.6k |
-| [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | ```Host``` ```Cross``` | 27.2k |
+| [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | ```SelfHost``` ```Cross``` | 27.2k |
 
 ### Language Package Manager
 
@@ -429,19 +430,21 @@ Abandoned - Development Halted
 | [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | ```Cross``` ```CLI``` | 7.4k |
 | [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | ```Cross``` ```CLI``` | 29.5k |
 | [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` ```CLI``` | 73.9k |
+| [UV](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | ```Cross``` ```CLI``` | 39.3k |
 
 ### Mail
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | ```Cross``` | 15.5k |
+| [Thunderbird](https://thunderbird.net) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | ```Cross``` | Unknown |
 
 ### Markdown Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | ```Cross``` | 10.3k |
-| [HedgeDoc](https://github.com/hedgedoc/hedgedoc) | HedgeDoc - Ideas grow better together | ```Host``` | 5.3k |
+| [HedgeDoc](https://github.com/hedgedoc/hedgedoc) | HedgeDoc - Ideas grow better together | ```SelfHost``` | 5.3k |
 
 > The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
 > - Logseq
@@ -459,9 +462,9 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | ```Host``` | 49.3k |
-| [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | ```Host``` | 35.1k |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```Host``` | 34.3k |
+| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | ```SelfHost``` | 49.3k |
+| [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | ```SelfHost``` | 35.1k |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```SelfHost``` | 34.3k |
 
 ### Neovim Extensions
 
@@ -472,6 +475,7 @@ Abandoned - Development Halted
 | [Neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | ```N/A``` | 6.5k |
 | [Vimwiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | ```N/A``` | 8.8k |
 | [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | ```N/A``` | 13k |
+| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim  | ```N/A``` | 16.2k |
 
 ### NoteTaking
 
@@ -518,7 +522,8 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | ```Cross``` | 25.1k |
-| [Kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | ```Host``` | 16.9k |
+| [Kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | ```SelfHost``` | 16.9k |
+| [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | ```SelfHost``` | 6.6k |
 
 ### Remote Desktop
 
@@ -562,6 +567,7 @@ Abandoned - Development Halted
 | [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | ```Cross``` | 56k |
 | [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | ```Cross``` | 58.8k |
 | [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | ```Cross``` | 4.2k |
+| [Ghostty](github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | ```Cross``` | 26.6k |
 
 ### Text Editor
 
@@ -582,6 +588,7 @@ Abandoned - Development Halted
 | [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | ```Cross``` | 29.6k |
 | [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` | 56.3k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | 28.5k |
+| [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | 5.1k |
 
 ### Version Manager
 
@@ -631,6 +638,9 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
+| [boring notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | 2.2k |
+| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | 16.6k |
+| [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | 2.1k |
 
 ### Linux
 
@@ -661,10 +671,10 @@ Abandoned - Development Halted
 | [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | ```Cross``` | 1.9k |
 | [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | ```N/A``` | 12.7k |
 | [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | 28.9k |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```Host``` | 19k |
-| [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | ```Host``` | 15.3k |
-| [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```Host``` | 3.4k |
-| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```Host``` | 20.5k |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | 19k |
+| [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | ```SelfHost``` | 15.3k |
+| [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```SelfHost``` | 3.4k |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | 20.5k |
 
 
 
