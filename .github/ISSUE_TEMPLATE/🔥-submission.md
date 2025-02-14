@@ -1,5 +1,5 @@
 ---
-name: Submission
+name: "\U0001F525 Submission"
 about: Project submission
 title: "[ADD]"
 labels: addition
@@ -7,11 +7,13 @@ assignees: ''
 
 ---
 
-Project name: 
+**Project name**
 
-Stars: 
+**Star count**
 
-Why should this be on the list?
+**Describe the project**
 
-Checks:
+**Any other context (EX: Why it's special)
+
+**Checks:**
 - [ ] Does this project somewhat fit within the guidelines
