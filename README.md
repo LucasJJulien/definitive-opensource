@@ -6,14 +6,11 @@
 
 <p align="center"><code>Status: Active</code> - <code>License: MIT</code></p>
 
-> [!NOTE]  
-> The list is currently edited directly from the readme, however my goal for the 1.0 release is for all open-source projects to be under a ```list.json``` file with scripts that automatically generate the readme. This would automate organization and make re-ordering far easier whilst enabling API retrieval of repository stats for always up to date star counts and descriptions. Consult the [roadmap](ROADMAP.md) for further information regarding development.
-
 > [!TIP]  
 > Submit or make changes by forking this repo, editing, commiting, and opening a pull-request. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
 
 > [!CAUTION]  
-> Starcounts are hard-coded and may not reflect latest values. API retrieval system of stars planned for 1.0 release.
+> Starcounts are hard-coded and may not reflect latest values. API retrieval system of stars currently in development.
 
 ## Why another list?
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
