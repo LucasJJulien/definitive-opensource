@@ -111,6 +111,7 @@ Abandoned - Development Halted
   - [Task Management](#task-management)
   - [Terminal](#terminal)
   - [Text Editor](#text-editor)
+  - [Terminal Multiplexer](#terminal-multiplexer)
   - [Tools](#tools)
   - [Version Manager](#version-manager)
   - [Video Editing](#video-editing)
@@ -146,6 +147,7 @@ Abandoned - Development Halted
       - [AI Code Complete](#ai-code-complete)
   - Utilities
       - [Terminal](#terminal)
+      - [Terminal Multiplexer](#terminal-multiplexer)
       - [File Manager](#file-manager)
       - [Tools](#tools)
       - [Package Manager](#package-manager)
@@ -299,7 +301,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```SelfHost``` | 16.8k |
+| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```Web``` ```SelfHost``` | 16.8k |
 
 ### Dev Extensions
 
@@ -496,6 +498,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | ```Cross``` | 2.8k |
 | [LibreOffice](https://github.com/libreoffice) | No description provided. | ```Cross``` | 2.8k |
+| [Cryptpad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source.  | ```SelfHost``` | 5.9k |
 
 ### Package Manager
 
@@ -590,6 +593,13 @@ Abandoned - Development Halted
 | [Notepads](https://github.com/0x7c13/Notepads) | A modern, lightweight text editor with a minimalist design. | ```Windows``` | 8.8k |
 | [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | ```Cross``` ```CLI``` | 10k |
 | [Lite-XL](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | ```Cross``` | 4.7k |
+
+### Terminal Multiplexer
+
+| Name | Description | Platform | Stars |
+| --- | --- | --- | --- |
+| [Zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included  | ```Cross``` ```CLI``` | 23.1k |
+| [tmux](https://github.com/tmux/tmux) | tmux source code | ```Cross``` ```CLI``` | 36.5k |
 
 ### Tools
 
