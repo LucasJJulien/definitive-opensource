@@ -586,7 +586,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | ```Windows``` ```Linux``` | 19.9k |
 | [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | ```Cross``` | 29.6k |
-| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` | 56.3k |
+| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Android``` ```IOS``` | 56.3k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | 28.5k |
 | [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | 5.1k |
 
