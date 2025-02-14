@@ -33,7 +33,19 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 
 ```🧪``` - Experimental (Pre-Alpha)
 
+```🚧``` - Critically unstable/buggy
 
+### Awards (Not yet used)
+
+```🏆``` - Crown of open source
+
+```🥈``` - Second
+
+```🥉``` - Third
+
+```💥``` - Disruptive
+
+```🌍``` - Influential
 
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
