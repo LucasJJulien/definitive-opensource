@@ -725,6 +725,7 @@ Abandoned - Development Halted
 | [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | ```SelfHost``` | 15.3k |
 | [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```SelfHost``` | 3.4k |
 | [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | 20.5k |
+| [mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | 31.6k |
 
 
 
