@@ -29,25 +29,7 @@ This list aims to be comprehensive and highly curated, consolidating only the be
 ### Platforms
 ```Cross``` - Cross-platform (MacOS, Windows, Linux)
 
-```Mac``` - MacOS
-
-```Win``` - Windows
-
-```Lnx``` - Linux
-
-```Host``` - Self Host
-
-```Web``` - A website
-
-```VSC``` - VSCode
-
-```JB``` - Jetbrains
-
-```Cr``` - Chromium
-
-```Fox``` - Firefox
-
-```N/A``` - Not applicable
+```MacOS```, ```Windows```, ```Linux```, ```Host```, ```Web```, ```VSCode```, ```JetB```, ```Chromium```, ```Firefox```, ```N/A```
 
 ## Project Status
 ```css
@@ -210,7 +192,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor | ```Cross``` | 12.4k |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | 31.6k |
-| [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```Mac``` | 16.5k |
+| [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | 16.5k |
 
 ### AI Image GUI
 
@@ -267,7 +249,7 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```Mac``` ```Lnx``` | 48.4k |
+| [Zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | 48.4k |
 | [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` | 33.4k |
 | [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | 34.4k |
 | [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` | 36.4k |
@@ -277,20 +259,20 @@ Abandoned - Development Halted
 | [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` | 24.6k |
 | [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | 163k |
 | [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | 25.2k |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```Mac``` | 21k |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | 21k |
 
 ### Cleaner
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | ```Mac``` | 3.3k |
-| [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | ```Win``` ```Lnx``` | 3.1k |
+| [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | ```MacOS``` | 3.3k |
+| [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | ```Windows``` ```Linux``` | 3.1k |
 
 ### Clipboard Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | ```Mac``` | 13.4k |
+| [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | ```MacOS``` | 13.4k |
 
 ### Document Editor
 
@@ -302,8 +284,8 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSC``` ```JB``` | 19.1k |
-| [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSC``` | 14k |
+| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetB``` | 19.1k |
+| [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | 14k |
 
 ### Download Manager
 
@@ -325,16 +307,16 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Cr``` ```Fox``` | 49.9k |
-| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Cr``` ```Fox``` | 19.6k |
+| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | 49.9k |
+| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | 19.6k |
 
 ### File Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.  | ```Cross``` | 32k |
-| [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | ```Win``` | 34.2k |
-| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | ```Lnx``` | 19.2k |
+| [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | ```Windows``` | 34.2k |
+| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | ```Linux``` | 19.2k |
 | [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | ```Cross``` | 15.6k |
 | [Ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | ```Cross``` | 15.5k |
 | [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | ```Cross``` | 11.1k |
@@ -365,7 +347,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | ```Cross``` | 8.4k |
-| [PlayNite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | ```Win``` | 9.7k |
+| [PlayNite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | ```Windows``` | 9.7k |
 
 ### Graphics
 
@@ -423,9 +405,9 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Lnx``` | 11.1k |
-| [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Lnx``` | 13.2k |
-| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Lnx``` | 25.6k |
+| [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Linux``` | 11.1k |
+| [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | 13.2k |
+| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | 25.6k |
 | [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | ```Host``` ```Cross``` | 27.2k |
 
 ### Language Package Manager
@@ -499,8 +481,8 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | ```Mac``` ```Lnx``` | 41.2k |
-| [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | ```Win``` | 10.3k |
+| [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | ```MacOS``` ```Linux``` | 41.2k |
+| [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | ```Windows``` | 10.3k |
 | [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | ```Cross``` | 12.5k |
 
 ### Password Manager
@@ -537,13 +519,13 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | ```Cross``` | 59.7k |
-| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ```Win``` | 30.1k |
+| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ```Windows``` | 30.1k |
 
 ### System Monitoring
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | ```Mac``` | 25.3k |
+| [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | ```MacOS``` | 25.3k |
 
 ### Sync
 
@@ -574,9 +556,9 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | ```Web``` | 43.5k |
-| [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | ```Mac``` | 6.4k |
+| [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | ```MacOS``` | 6.4k |
 | [Micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | ```Cross``` | 25.1k |
-| [Notepads](https://github.com/0x7c13/Notepads) | A modern, lightweight text editor with a minimalist design. | ```Win``` | 8.8k |
+| [Notepads](https://github.com/0x7c13/Notepads) | A modern, lightweight text editor with a minimalist design. | ```Windows``` | 8.8k |
 | [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | ```Cross``` | 10k |
 | [Lite-XL](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | ```Cross``` | 4.7k |
 
@@ -584,16 +566,16 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | ```Win``` ```Lnx``` | 19.9k |
+| [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | ```Windows``` ```Linux``` | 19.9k |
 | [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | ```Cross``` | 29.6k |
 | [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` | 56.3k |
-| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```Mac``` | 28.5k |
+| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | 28.5k |
 
 ### Version Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [XcodesApp](https://github.com/XcodesOrg/XcodesApp) | The easiest way to install and switch between multiple versions of Xcode - with a mouse click. | ```Mac``` | 7.1k |
+| [XcodesApp](https://github.com/XcodesOrg/XcodesApp) | The easiest way to install and switch between multiple versions of Xcode - with a mouse click. | ```MacOS``` | 7.1k |
 | [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | ```Cross``` | 16.2k |
 | [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` | 39.1k |
 | [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` | 79.7k |
@@ -612,15 +594,15 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | ```Mac``` | 26.6k |
-| [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | ```Mac``` | 5.5k |
+| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | ```MacOS``` | 26.6k |
+| [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | ```MacOS``` | 5.5k |
 
 ### Video Player
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | ```Cross``` | 28.2k |
-| [iina](https://github.com/iina/iina) | The modern video player for macOS. | ```Mac``` | 38k |
+| [iina](https://github.com/iina/iina) | The modern video player for macOS. | ```MacOS``` | 38k |
 | [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | ```Cross``` | 14k |
 
 ### Video Transcoder
@@ -655,7 +637,7 @@ Abandoned - Development Halted
 | --- | --- | --- | --- |
 | [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | 2.2k |
 | [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | 3.9k |
-| [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Lnx``` | 49.7k |
+| [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | 49.7k |
 | [Home Assistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```Cross``` | 72.7k |
 
 ### Uncategorized
