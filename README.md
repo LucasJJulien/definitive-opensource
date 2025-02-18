@@ -4,7 +4,7 @@
 <h1 align="center"> definitive-opensource </h1>
 <p align="center"> A definitive list of the best of everything open source</p>
 
-<p align="center"><code>Status: Active</code> - <code>Projects: 207</code></p>
+<p align="center"><code>Status: Active</code> - <code>Projects: 209</code></p>
 
 > [!TIP]  
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
@@ -365,7 +365,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=for-the-badge&label=%20&color=white) |
-| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/actualbudget/actual?style=for-the-badge&label=%20&color=white) |
+| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | ```SelfHost``` ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/actualbudget/actual?style=for-the-badge&label=%20&color=white) |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=for-the-badge&label=%20&color=white) |
 
 ### Games
@@ -392,6 +392,8 @@ Abandoned - Development Halted
 | [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=for-the-badge&label=%20&color=white) |
 | [Blender](https://github.com/blender/blender) | Official mirror of Blender | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blender/blender?style=for-the-badge&label=%20&color=white) |
 | [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gaphor/gaphor?style=for-the-badge&label=%20&color=white) |
+| [darktable](https://github.com/darktable-org/darktable) | darktable is an open source photography workflow application and raw developer | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darktable-org/darktable?style=for-the-badge&label=%20&color=white) |
+| [RawTherapee](https://github.com/RawTherapee/RawTherapee) | A powerful cross-platform raw photo processing program | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=for-the-badge&label=%20&color=white) |
 
 ### Git GUI
 
