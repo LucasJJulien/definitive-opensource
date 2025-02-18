@@ -302,145 +302,145 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | ```MacOS``` | 3.3k |
-| [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | ```Windows``` ```Linux``` | 3.1k |
+| [Pearcleaner](https://github.com/alienator88/Pearcleaner) | A free, source-available and fair-code licensed mac app cleaner | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner?style=for-the-badge&label=%20&color=white) |
+| [Bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux | ```Windows``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit?style=for-the-badge&label=%20&color=white) |
 
 ### Clipboard Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | ```MacOS``` | 13.4k |
+| [Maccy](https://github.com/p0deje/Maccy) | Lightweight clipboard manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy?style=for-the-badge&label=%20&color=white) |
 
 ### Document Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```Web``` ```SelfHost``` | 16.8k |
+| [Etherpad](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | ```Web``` ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=for-the-badge&label=%20&color=white) |
 
 ### Dev Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetB``` | 19.1k |
-| [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | 14k |
+| [Continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains  | ```VSCode``` ```JetB``` | ![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=for-the-badge&label=%20&color=white) |
+| [Cline](https://github.com/cline/cline) |  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=for-the-badge&label=%20&color=white) |
 
 ### Download Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | ```Cross``` | 16.3k |
-| [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | ```Cross``` | 1.5k |
-| [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | ```Cross``` | 45.4k |
-| [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | 6.3k |
-| [FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | 9.4k |
+| [GoPeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge&label=%20&color=white) |
+| [AB](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager?style=for-the-badge&label=%20&color=white) |
+| [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge&label=%20&color=white) |
+| [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/persepolisdm/persepolis?style=for-the-badge&label=%20&color=white) |
+| [FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filecxx/FileCentipede?style=for-the-badge&label=%20&color=white) |
 
 ### Docker
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | ```Cross``` | 30.8k |
-| [dockge](https://github.com/louislam/dockge) ```❌``` | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | 15k |
+| [Portainer](https://github.com/portainer/portainer) |Making Docker and Kubernetes management easy. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge&label=%20&color=white) |
+| [dockge](https://github.com/louislam/dockge) ```❌``` | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=%20&color=white) |
 
 ### File Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.  | ```Cross``` | 32k |
-| [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | ```Windows``` | 34.2k |
-| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | ```Linux``` ```CLI``` | 19.2k |
-| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | ```Cross``` ```CLI``` | 15.6k |
-| [Ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | ```Cross``` ```CLI``` | 15.5k |
-| [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | ```Cross``` | 11.1k |
-| [If](https://github.com/gokcehan/lf) | Terminal file manager | ```Cross``` ```CLI``` | 7.7k |
-| [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | ```Cross``` | 5.8k |
-| [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```SelfHost``` | 10.7k |
-| [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```SelfHost``` | 2.2k |
-| [Filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```SelfHost``` | 27.1k |
+| [Spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge&label=%20&color=white) |
+| [Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/files-community/Files?style=for-the-badge&label=%20&color=white) |
+| [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | ```Linux``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jarun/nnn?style=for-the-badge&label=%20&color=white) |
+| [Yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/sxyazi/yazi?style=for-the-badge&label=%20&color=white) |
+| [Ranger](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ranger/ranger?style=for-the-badge&label=%20&color=white) |
+| [Electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/electerm/electerm?style=for-the-badge&label=%20&color=white) |
+| [If](https://github.com/gokcehan/lf) | Terminal file manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gokcehan/lf?style=for-the-badge&label=%20&color=white) |
+| [Superfile](https://github.com/yorukot/superfile) | Pretty fancy and modern terminal file manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yorukot/superfile?style=for-the-badge&label=%20&color=white) |
+| [FileStash](https://github.com/mickael-kerjean/filestash) | 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge&label=%20&color=white) |
+| [Filegator](https://github.com/filegator/filegator) | Powerful Multi-User File Manager | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filegator/filegator?style=for-the-badge&label=%20&color=white) |
+| [Filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=for-the-badge&label=%20&color=white) |
 
 ### Finance
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | ```SelfHost``` | 34.6k |
-| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | ```Cross``` | 34.2k |
-| [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | ```SelfHost``` | 5.3k |
+| [Maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=for-the-badge&label=%20&color=white) |
+| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/actualbudget/actual?style=for-the-badge&label=%20&color=white) |
+| [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=for-the-badge&label=%20&color=white) |
 
 ### Games
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Endless Sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | ```Cross``` | 5.8k |
-| [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | ```Cross``` | 10.3k |
-| [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V | ```Cross``` | 8.4k |
-| [Wesnoth](https://github.com/wesnoth/wesnoth) | An open source, turn-based strategy game with a high fantasy theme. | ```Cross``` | 5.5k |
+| [Endless Sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/endless-sky/endless-sky?style=for-the-badge&label=%20&color=white) |
+| [Cataclysm DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=for-the-badge&label=%20&color=white) |
+| [Unciv](https://github.com/yairm210/Unciv) | Open-source Android/Desktop remake of Civ V | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yairm210/Unciv?style=for-the-badge&label=%20&color=white) |
+| [Wesnoth](https://github.com/wesnoth/wesnoth) | An open source, turn-based strategy game with a high fantasy theme. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wesnoth/wesnoth?style=for-the-badge&label=%20&color=white) |
 
 ### Game Launcher
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | ```Cross``` | 8.4k |
-| [PlayNite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | ```Windows``` | 9.7k |
+| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher?style=for-the-badge&label=%20&color=white) |
+| [PlayNite](https://github.com/JosefNemec/Playnite/) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite?style=for-the-badge&label=%20&color=white) |
 
 ### Graphics
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Graphite](https://github.com/GraphiteEditor/Graphite) | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.  | ```Web``` | 7.9k |
-| [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | ```Cross``` | 19.5k |
-| [Blender](https://github.com/blender/blender) | Official mirror of Blender | ```Cross``` | 13k |
-| [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | ```Cross``` | 1.9k |
+| [Graphite](https://github.com/GraphiteEditor/Graphite) | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.  | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=for-the-badge&label=%20&color=white) |
+| [FreeCAD](https://github.com/blender/blender) | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=for-the-badge&label=%20&color=white) |
+| [Blender](https://github.com/blender/blender) | Official mirror of Blender | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blender/blender?style=for-the-badge&label=%20&color=white) |
+| [Gaphor](https://github.com/gaphor/gaphor) | Gaphor is the simple modeling tool | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gaphor/gaphor?style=for-the-badge&label=%20&color=white) |
 
 ### Git GUI
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Github Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | ```Cross``` | 19.7k |
+| [Github Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop?style=for-the-badge&label=%20&color=white) |
 
 ### Game Engine
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | ```Cross``` | 90.2k |
+| [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot?style=for-the-badge&label=%20&color=white) |
 
 ### Home Automation
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [HomeAssistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```SelfHost``` ```Cross``` | 72.7k |
-| [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | 21.1k |
+| [HomeAssistant](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | ```SelfHost``` ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=%20&color=white) |
+| [Frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=for-the-badge&label=%20&color=white) |
 
 ### IDE
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | ```Cross``` | 17.2k |
+| [IntelliJ Community](https://github.com/JetBrains/intellij-community) | IntelliJ IDEA Community Edition & IntelliJ Platform | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=for-the-badge&label=%20&color=white) |
 
 ### Knowledge Base
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. | ```Cross``` | 32.5k |
-| [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | ```Cross``` | 4.3k |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ```⭕``` | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. | ```Cross``` | 59.6k |
-| [Affine](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | ```Cross``` | 41.3k |
-| [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | ```Cross``` | 27.8k |
-| [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | ```Cross``` | 19.5k |
-| [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. | ```Cross``` | 18.8k |
+| [Logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq?style=for-the-badge&label=%20&color=white) |
+| [Anytype](https://github.com/anyproto/anytype-ts) | Official Anytype client for MacOS, Linux, and Windows | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=for-the-badge&label=%20&color=white) |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ```⭕``` | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=for-the-badge&label=%20&color=white) |
+| [Affine](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=for-the-badge&label=%20&color=white) |
+| [Outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline?style=for-the-badge&label=%20&color=white) |
+| [Siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=for-the-badge&label=%20&color=white) |
+| [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/labring/FastGPT?style=for-the-badge&label=%20&color=white) |
 
 ### LLM Gui
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. | ```Cross``` ```SelfHost``` ```CLI``` | 126k |
-| [Open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ```SelfHost``` | 42.9k |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | ```Cross``` | 70k |
-| [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) | ```Cross``` | 22.7k |
-| [Lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. | ```Cross``` | 42.8k |
-| [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | ```Cross``` | 21.2k |
-| [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | ```Cross``` | 40.1k |
-| [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | 54.1k |
-| [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | 21.4k |
-| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | 12.1k |
+| [Ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. | ```Cross``` ```SelfHost``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge&label=%20&color=white) |
+| [Open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=for-the-badge&label=%20&color=white) |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=for-the-badge&label=%20&color=white) |
+| [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/janhq/jan?style=for-the-badge&label=%20&color=white) |
+| [Lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=for-the-badge&label=%20&color=white) |
+| [Chatbox](https://github.com/Bin-Huang/chatbox) | User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=for-the-badge&label=%20&color=white) |
+| [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=for-the-badge&label=%20&color=white) |
+| [OpenIntepreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=for-the-badge&label=%20&color=white) |
+| [Khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=for-the-badge&label=%20&color=white) |
+| [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=for-the-badge&label=%20&color=white) |
 
 ### Linux Dashboard
 
