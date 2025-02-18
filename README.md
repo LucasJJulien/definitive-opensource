@@ -446,35 +446,35 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Linux``` | 11.1k |
-| [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | 13.2k |
-| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | 25.6k |
-| [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | ```SelfHost``` ```Cross``` | 27.2k |
+| [Cockpit](https://github.com/cockpit-project/cockpit) | Cockpit is a web-based graphical interface for servers. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cockpit-project/cockpit?style=for-the-badge&label=%20&color=white) |
+| [CapRover](https://github.com/caprover/caprover) | Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/caprover/caprover?style=for-the-badge&label=%20&color=white) |
+| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge&label=%20&color=white) |
+| [NextCloud](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data  | ```SelfHost``` ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server?style=for-the-badge&label=%20&color=white) |
 
 ### Language Package Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Mise](https://github.com/jdx/mise) | dev tools, env vars, task runner  | ```Cross``` ```CLI``` | 13.3k |
-| [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more  | ```Cross``` ```CLI``` | 22.8k |
-| [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | ```Cross``` ```CLI``` | 7.4k |
-| [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | ```Cross``` ```CLI``` | 29.5k |
-| [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` ```CLI``` | 73.9k |
-| [UV](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | ```Cross``` ```CLI``` | 39.3k |
+| [Mise](https://github.com/jdx/mise) | dev tools, env vars, task runner  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jdx/mise?style=for-the-badge&label=%20&color=white) |
+| [asdf](https://github.com/asdf-vm/asdf) | Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=%20&color=white) |
+| [Yarn](https://github.com/yarnpkg/berry) | Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yarnpkg/berry?style=for-the-badge&label=%20&color=white) |
+| [PNPM](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pnpm/pnpm?style=for-the-badge&label=%20&color=white) |
+| [Bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/oven-sh/bun?style=for-the-badge&label=%20&color=white) |
+| [UV](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/astral-sh/uv?style=for-the-badge&label=%20&color=white) |
 
 ### Mail
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | ```Cross``` | 15.5k |
+| [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring?style=for-the-badge&label=%20&color=white) |
 | [Thunderbird](https://thunderbird.net) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | ```Cross``` | Unknown |
 
 ### Markdown Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | ```Cross``` | 10.3k |
-| [HedgeDoc](https://github.com/hedgedoc/hedgedoc) | HedgeDoc - Ideas grow better together | ```SelfHost``` | 5.3k |
+| [Zettlr](https://github.com/Zettlr/Zettlr) | Your One-Stop Publication Workbench | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Zettlr/Zettlr?style=for-the-badge&label=%20&color=white) |
+| [HedgeDoc](https://github.com/hedgedoc/hedgedoc) | HedgeDoc - Ideas grow better together | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=for-the-badge&label=%20&color=white) |
 
 > The following also support markdown editing but have been placed in the [knowledge base](#knowledgebase) category.
 > - Logseq
@@ -484,200 +484,200 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | ```Cross``` ```CLI``` | 85k |
-| [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | ```Cross``` | 8.7k |
-| [Cobalt](https://github.com/imputnet/cobalt) | best way to save what you love  | ```Web``` | 27.7k |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=for-the-badge&label=%20&color=white) |
+| [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?style=for-the-badge&label=%20&color=white) |
+| [Cobalt](https://github.com/imputnet/cobalt) | best way to save what you love  | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt?style=for-the-badge&label=%20&color=white) |
 
 ### Media Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | ```SelfHost``` | 49.3k |
-| [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | ```SelfHost``` | 35.1k |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```SelfHost``` | 34.3k |
+| [Immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/immich-app/immich?style=for-the-badge&label=%20&color=white) |
+| [Photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/photoprism/photoprism?style=for-the-badge&label=%20&color=white) |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge&label=%20&color=white) |
 
 ### Neovim Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Nvim-Dap](https://github.com/mfussenegger/nvim-dap) | Debug Adapter Protocol client implementation for Neovim | ```N/A``` | 5.6k |
-| [Coq](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. | ```N/A``` | 3.6k |
-| [Neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | ```N/A``` | 6.5k |
-| [Vimwiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | ```N/A``` | 8.8k |
-| [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | ```N/A``` | 13k |
-| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim  | ```N/A``` | 16.2k |
+| [Nvim-Dap](https://github.com/mfussenegger/nvim-dap) | Debug Adapter Protocol client implementation for Neovim | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mfussenegger/nvim-dap?style=for-the-badge&label=%20&color=white) |
+| [Coq](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ms-jpq/coq_nvim?style=for-the-badge&label=%20&color=white) |
+| [Neorg](https://github.com/nvim-neorg/neorg) | Modernity meets insane extensibility. The future of organizing your life in Neovim. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvim-neorg/neorg?style=for-the-badge&label=%20&color=white) |
+| [Vimwiki](https://github.com/vimwiki/vimwiki) | Personal Wiki for Vim | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vimwiki/vimwiki?style=for-the-badge&label=%20&color=white) |
+| [Neovide](https://github.com/neovide/neovide) | No Nonsense Neovim Client in Rust  | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovide/neovide?style=for-the-badge&label=%20&color=white) |
+| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim  | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/folke/lazy.nvim?style=for-the-badge&label=%20&color=white) |
 
 ### NoteTaking
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | ```Cross``` | 45.5k |
-| [Notesnook](https://github.com/streetwriters/notesnook) | A fully open source & end-to-end encrypted note taking alternative to Evernote. | ```Cross``` | 9.7k |
-| [Trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | ```Cross``` | 27.1k |
-| [StandardNotes](https://github.com/standardnotes/app) | Think fearlessly with end-to-end encrypted notes and files. | ```Cross``` | 5.3k |
+| [Joplin](https://github.com/laurent22/joplin) | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin?style=for-the-badge&label=%20&color=white) |
+| [Notesnook](https://github.com/streetwriters/notesnook) | A fully open source & end-to-end encrypted note taking alternative to Evernote. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=for-the-badge&label=%20&color=white) |
+| [Trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium?style=for-the-badge&label=%20&color=white) |
+| [StandardNotes](https://github.com/standardnotes/app) | Think fearlessly with end-to-end encrypted notes and files. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/standardnotes/app?style=for-the-badge&label=%20&color=white) |
 
 ### Office Suite
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | ```Cross``` | 2.8k |
-| [LibreOffice](https://github.com/libreoffice) | No description provided. | ```Cross``` | 2.8k |
-| [Cryptpad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source.  | ```SelfHost``` | 5.9k |
+| [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors) | An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ONLYOFFICE/DesktopEditors?style=for-the-badge&label=%20&color=white) |
+| [LibreOffice](https://github.com/libreoffice) | No description provided. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LibreOffice/core?style=for-the-badge&label=%20&color=white) |
+| [Cryptpad](https://github.com/cryptpad/cryptpad) | Collaborative office suite, end-to-end encrypted and open-source.  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=for-the-badge&label=%20&color=white) |
 
 ### Package Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | ```MacOS``` ```Linux``` ```CLI``` | 41.2k |
-| [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | ```Windows``` | 10.3k |
-| [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | ```Cross``` | 12.5k |
+| [Homebrew](https://github.com/Homebrew/brew) | macOS system monitor in your menu bar | ```MacOS``` ```Linux``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Homebrew/brew?style=for-the-badge&label=%20&color=white) |
+| [Choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/chocolatey/choco?style=for-the-badge&label=%20&color=white) |
+| [Nix](https://github.com/NixOS/nix) | Nix, the purely functional package manager | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NixOS/nix?style=for-the-badge&label=%20&color=white) |
 
 ### Password Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | ```Cross``` | Total: 30k+ |
-| [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | ```Cross``` | 21k |
-| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | 41.8k |
+| [Bitwarden](https://github.com/bitwarden) | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients?style=for-the-badge&label=%20&color=white) |
+| [Keepass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=for-the-badge&label=%20&color=white) |
+| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs  | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=for-the-badge&label=%20&color=white) |
 
 ### Project Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. | ```Cross``` | 29.8k |
-| [Focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | ```Cross``` | 21.6k |
-| [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | ```Cross``` | 14.6k |
-| [Openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. | ```Cross``` | 9.3k |
+| [Plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/makeplane/plane?style=for-the-badge&label=%20&color=white) |
+| [Focalboard](https://github.com/mattermost-community/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=for-the-badge&label=%20&color=white) |
+| [Huly](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/hcengineering/platform?style=for-the-badge&label=%20&color=white) |
+| [Openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/opf/openproject?style=for-the-badge&label=%20&color=white) |
 
 ### RAG
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | ```Cross``` | 25.1k |
-| [Kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | ```SelfHost``` | 16.9k |
-| [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | ```SelfHost``` | 6.6k |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | ```SelfHost``` | 35.7k |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=for-the-badge&label=%20&color=white) |
+| [Kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=for-the-badge&label=%20&color=white) |
+| [Verba](https://github.com/weaviate/Verba) | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/weaviate/Verba?style=for-the-badge&label=%20&color=white) |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=for-the-badge&label=%20&color=white) |
 
 ### Remote Desktop
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | ```Cross``` | 74.2k |
+| [Rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=for-the-badge&label=%20&color=white) |
 
 ### Screen Recording
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | ```Cross``` | 59.7k |
-| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ```Windows``` | 30.1k |
+| [OBS Studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=for-the-badge&label=%20&color=white) |
+| [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge&label=%20&color=white) |
 
 ### System Monitoring
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | ```MacOS``` | 25.3k |
-| [Vitals](https://github.com/corecoding/Vitals) | A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load. | ```Linux``` | 1.6k |
+| [Stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/exelban/stats?style=for-the-badge&label=%20&color=white) |
+| [Vitals](https://github.com/corecoding/Vitals) | A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/corecoding/Vitals?style=for-the-badge&label=%20&color=white) |
 
 ### Sync
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | ```Cross``` ```CLI``` | 67.6k |
-| [rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | ```Cross``` ```CLI``` | 3.2k |
+| [Syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing?style=for-the-badge&label=%20&color=white) |
+| [rsync](https://github.com/RsyncProject/rsync) | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/RsyncProject/rsync?style=for-the-badge&label=%20&color=white) |
 
 ### Shell
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Fish Shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | ```Cross``` ```CLI``` | 28k |
+| [Fish Shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/fish-shell/fish-shell?style=for-the-badge&label=%20&color=white) |
 
 ### Task Management
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Super Productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. | ```Cross``` | 11.7k |
+| [Super Productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=for-the-badge&label=%20&color=white) |
 
 ### Terminal
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | ```Cross``` | 24.2k |
-| [Wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust  | ```Cross``` | 17.2k |
-| [Waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows | ```Cross``` | 4.2k |
-| [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | ```Cross``` | 56k |
-| [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | ```Cross``` | 58.8k |
-| [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | ```Cross``` | 4.2k |
-| [Ghostty](github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | ```Cross``` | 26.6k |
+| [Kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=for-the-badge&label=%20&color=white) |
+| [Wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=for-the-badge&label=%20&color=white) |
+| [Waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=for-the-badge&label=%20&color=white) |
+| [Alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=for-the-badge&label=%20&color=white) |
+| [Tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Eugeny/tabby?style=for-the-badge&label=%20&color=white) |
+| [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/raphamorim/rio?style=for-the-badge&label=%20&color=white) |
+| [Ghostty](github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=for-the-badge&label=%20&color=white) |
 
 ### Text Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | ```Web``` | 43.5k |
-| [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | ```MacOS``` | 6.4k |
-| [Micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | ```Cross``` ```CLI``` | 25.1k |
-| [Notepads](https://github.com/0x7c13/Notepads) | A modern, lightweight text editor with a minimalist design. | ```Windows``` | 8.8k |
-| [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | ```Cross``` ```CLI``` | 10k |
-| [Lite-XL](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | ```Cross``` | 4.7k |
-| [Emacs](https://github.com/emacs-mirror/emacs) | An extensible, customizable, free/libre text editor — and more. | ```Cross``` | 4.5k |
+| [Quill](https://github.com/slab/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility | ```Web``` | ![GitHub Repo stars](https://img.shields.io/github/stars/slab/quill?style=for-the-badge&label=%20&color=white) |
+| [CotEditor](https://github.com/coteditor/CotEditor) | Lightweight Plain-Text Editor for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/coteditor/CotEditor?style=for-the-badge&label=%20&color=white) |
+| [Micro](https://github.com/zyedidia/micro) | A modern and intuitive terminal-based text editor | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zyedidia/micro?style=for-the-badge&label=%20&color=white) |
+| [Notepads](https://github.com/0x7c13/Notepads) | A modern, lightweight text editor with a minimalist design. | ```Windows``` | ![GitHub Repo stars](https://img.shields.io/github/stars/0x7c13/Notepads?style=for-the-badge&label=%20&color=white) |
+| [Kakoune](https://github.com/mawww/kakoune) | mawww's experiment for a better code editor | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mawww/kakoune?style=for-the-badge&label=%20&color=white) |
+| [Lite-XL](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lite-xl/lite-xl?style=for-the-badge&label=%20&color=white) |
+| [Emacs](https://github.com/emacs-mirror/emacs) | An extensible, customizable, free/libre text editor — and more. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/emacs-mirror/emacs?style=for-the-badge&label=%20&color=white) |
 
 ### Terminal Multiplexer
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included  | ```Cross``` ```CLI``` | 23.1k |
-| [tmux](https://github.com/tmux/tmux) | tmux source code | ```Cross``` ```CLI``` | 36.5k |
+| [Zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=for-the-badge&label=%20&color=white) |
+| [tmux](https://github.com/tmux/tmux) | tmux source code | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&label=%20&color=white) |
 
 ### Tools
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | ```Windows``` ```Linux``` | 19.9k |
-| [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | ```Cross``` | 29.6k |
-| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Android``` ```IOS``` | 56.3k |
-| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | 28.5k |
-| [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | 5.1k |
-| [ScriptKit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | 4k |
+| [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | ```Windows``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka?style=for-the-badge&label=%20&color=white) |
+| [BalenaEtcher](https://github.com/balena-io/etcher) | Flash OS images to SD cards & USB drives, safely and easily. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/balena-io/etcher?style=for-the-badge&label=%20&color=white) |
+| [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Android``` ```IOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge&label=%20&color=white) |
+| [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/MonitorControl/MonitorControl?style=for-the-badge&label=%20&color=white) |
+| [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/aonez/Keka?style=for-the-badge&label=%20&color=white) |
+| [ScriptKit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/johnlindquist/kit?style=for-the-badge&label=%20&color=white) |
 
 ### Version Manager
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [XcodesApp](https://github.com/XcodesOrg/XcodesApp) | The easiest way to install and switch between multiple versions of Xcode - with a mouse click. | ```MacOS``` | 7.1k |
-| [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | ```Cross``` ```CLI``` | 16.2k |
-| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` ```CLI``` | 39.1k |
-| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` ```CLI``` | 79.7k |
+| [XcodesApp](https://github.com/XcodesOrg/XcodesApp) | The easiest way to install and switch between multiple versions of Xcode - with a mouse click. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/XcodesOrg/XcodesApp?style=for-the-badge&label=%20&color=white) |
+| [rbenv](https://github.com/rbenv/rbenv) | Manage your app's Ruby environment  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rbenv/rbenv?style=for-the-badge&label=%20&color=white) |
+| [PyEnv](https://github.com/pyenv/pyenv) | Simple Python version management | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/pyenv/pyenv?style=for-the-badge&label=%20&color=white) |
+| [NVM](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=%20&color=white) |
 
 ### Video Editing
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | ```Cross``` | 3.1k |
-| [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | ```Cross``` | 10.9k |
-| [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | ```Cross``` | 8.2k |
-| [Losslet-Cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing  | ```Cross``` | 28.5k |
-| [Natron](https://github.com/NatronGitHub/Natron) | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  | ```Cross``` | 4.8k |
+| [Kdenlive](https://github.com/KDE/kdenlive) | Free and open source video editor, based on MLT Framework and KDE Frameworks | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/kdenlive?style=for-the-badge&label=%20&color=white) |
+| [Shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mltframework/shotcut?style=for-the-badge&label=%20&color=white) |
+| [Olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/olive-editor/olive?style=for-the-badge&label=%20&color=white) |
+| [Losslet-Cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=for-the-badge&label=%20&color=white) |
+| [Natron](https://github.com/NatronGitHub/Natron) | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.  | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NatronGithub/Natron?style=for-the-badge&label=%20&color=white) |
 
 ### Virtual Machine
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | ```MacOS``` | 26.6k |
-| [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | ```MacOS``` | 5.5k |
+| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/utmapp/UTM?style=for-the-badge&label=%20&color=white) |
+| [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3 | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/insidegui/VirtualBuddy?style=for-the-badge&label=%20&color=white) |
 
 ### Video Player
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | ```Cross``` | 28.2k |
-| [iina](https://github.com/iina/iina) | The modern video player for macOS. | ```MacOS``` | 38k |
-| [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | ```Cross``` | 14k |
+| [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mpv-player/mpv?style=for-the-badge&label=%20&color=white) |
+| [iina](https://github.com/iina/iina) | The modern video player for macOS. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/iina/iina?style=for-the-badge&label=%20&color=white) |
+| [VLC](https://github.com/videolan/vlc) | VLC is a libre and open source media player and multimedia engine, focused on playing everything, and running everywhere. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge&label=%20&color=white) |
 
 ### Video Transcoder
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | ```Cross``` | 17.6k |
+| [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=for-the-badge&label=%20&color=white) |
 
 
 > [!NOTE]  
@@ -687,18 +687,18 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Boring Notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | 2.2k |
-| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | 16.6k |
-| [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | 2.1k |
-| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | 2.2k |
-| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | 3.9k |
+| [Boring Notch](https://github.com/TheBoredTeam/boring.notch) | TheBoringNotch: Not so boring notch That Rocks 🎸🎶  | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=for-the-badge&label=%20&color=white) |
+| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/jordanbaird/Ice?style=for-the-badge&label=%20&color=white) |
+| [Sol](https://github.com/ospfranco/sol) | MacOS launcher & command palette | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ospfranco/sol?style=for-the-badge&label=%20&color=white) |
+| [Cork](https://github.com/buresdv/Cork) | A fast GUI for Homebrew written in SwiftUI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/buresdv/Cork?style=for-the-badge&label=%20&color=white) |
+| [AppLite](https://github.com/milanvarady/Applite) | User-friendly GUI macOS application for Homebrew Casks | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=%20&color=white) |
 
 ### Linux
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Flatseal](https://github.com/tchx84/Flatseal) | Manage Flatpak permissions | ```Linux``` | 1.3k |
-| [Extension Manager](https://github.com/mjakeman/extension-manager) | A utility for browsing and installing GNOME Shell Extensions. | ```Linux``` | 1.1k |
+| [Flatseal](https://github.com/tchx84/Flatseal) | Manage Flatpak permissions | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/tchx84/Flatseal?style=for-the-badge&label=%20&color=white) |
+| [Extension Manager](https://github.com/mjakeman/extension-manager) | A utility for browsing and installing GNOME Shell Extensions. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mjakeman/extension-manager?style=for-the-badge&label=%20&color=white) |
 
 ### Windows
 
@@ -710,21 +710,21 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | 49.7k |
+| [OpenPilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars. | ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/commaai/openpilot?style=for-the-badge&label=%20&color=white) |
 
 ### Uncategorized
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` | 63k |
-| [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | ```Cross``` | 20.2k |
-| [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | ```N/A``` | 12.7k |
-| [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | 28.9k |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | 19k |
-| [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | ```SelfHost``` | 15.3k |
-| [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```SelfHost``` | 3.4k |
-| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | 20.5k |
-| [mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | 31.6k |
+| [Ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ansible/ansible?style=for-the-badge&label=%20&color=white) |
+| [Twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/twentyhq/twenty?style=for-the-badge&label=%20&color=white) |
+| [Mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/bluenviron/mediamtx?style=for-the-badge&label=%20&color=white) |
+| [Netron](https://github.com/lutzroeder/netron) | Visualizer for neural network, deep learning and machine learning models | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lutzroeder/netron?style=for-the-badge&label=%20&color=white) |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=for-the-badge&label=%20&color=white) |
+| [Teable](https://github.com/teableio/teable) | ✨ The Next Gen Airtable Alternative: No-Code Postgres | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/teableio/teable?style=for-the-badge&label=%20&color=white) |
+| [Unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Zipstack/unstract?style=for-the-badge&label=%20&color=white) |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=for-the-badge&label=%20&color=white) |
+| [mattermost](https://github.com/mattermost/mattermost) | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/mattermost/mattermost?style=for-the-badge&label=%20&color=white) |
 
 
 
