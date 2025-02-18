@@ -12,6 +12,9 @@
 > [!CAUTION]  
 > We have a **very rigorous** vetting and research process. Please consult the guideline properly when making submissions. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
 
+> [!NOTE]
+> My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
+
 ## Why another list?
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
 
