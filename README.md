@@ -472,7 +472,7 @@ Abandoned - Development Halted
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
 | [Mailspring](https://github.com/Foundry376/Mailspring) | 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring?style=for-the-badge&label=%20&color=white) |
-| [Thunderbird](https://thunderbird.net) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | ```Cross``` | Unknown |
+| [Thunderbird](https://github.com/thunderbird) | Meet Thunderbird, the email and productivity app that maximizes your freedoms. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=for-the-badge&label=%20&color=white) |
 
 ### Markdown Editor
 
