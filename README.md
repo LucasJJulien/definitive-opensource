@@ -639,6 +639,7 @@ Abandoned - Development Halted
 | [LocalSend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | ```Cross``` ```Android``` ```IOS``` | 56.3k |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl) | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. | ```MacOS``` | 28.5k |
 | [Keka](github.com/aonez/Keka) | The macOS & iOS file archiver | ```MacOS``` | 5.1k |
+| [ScriptKit](https://github.com/johnlindquist/kit) | Script Kit. Automate Anything. | ```Cross``` | 4k |
 
 ### Version Manager
 
