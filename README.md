@@ -10,14 +10,12 @@
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
 
 > [!CAUTION]  
-> Starcounts are hard-coded and may not reflect latest values. API retrieval system of stars currently in development.
+> We have a **very rigorous** vetting and research process. Please consult the guideline properly when making submissions. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
 
 ## Why another list?
 There's plenty of awesome lists on GitHub, many focusing on open source specifically. However I've found them including many long-deprecated apps, cluttered with smaller projects on the verge of extinction, or missing a lot of modern open source projects. 
 
 This list aims to be comprehensive and highly curated, consolidating only the best open source projects. Mostly apps with a solid user base, solid set of contributors, and visible long term growth are included. These criteria are nothing more than suggestions, however, and projects with potential or ones that set out on a unique path can bypass the above criteria. 
-
-We have a **very rigorous** vetting and research process. Please consult the guideline properly when making submissions. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
 
 ## Tags
 
@@ -221,84 +219,84 @@ Abandoned - Development Halted
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Audacity](https://github.com/audacity/audacity) | Audio Editor | ```Cross``` | 12.4k |
-| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | 31.6k |
-| [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | 16.5k |
+| [Audacity](https://github.com/audacity/audacity) | Audio Editor | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/audacity/audacity?style=for-the-badge&label=%20&color=white) |
+| [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
+| [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube?style=for-the-badge&label=%20&color=white) |
 
 ### AI Image GUI
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | ```Cross``` | 141k |
-| [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | ```Cross``` | 30.5k |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ```Cross``` | 53.2k |
-| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | ```Cross``` | 23.4k |
-| [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | No description, website, or topics provided. | ```Cross``` | 8k |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```Cross``` | 40.8k |
-| [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | ```Cross``` | 4.5k |
-| [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | 4.6k |
+| [Auto1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=for-the-badge&label=%20&color=white) |
+| [Upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl?style=for-the-badge&label=%20&color=white) |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge&label=%20&color=white) |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=for-the-badge&label=%20&color=white) |
+| [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) | No description, website, or topics provided. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge?style=for-the-badge&label=%20&color=white) |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=for-the-badge&label=%20&color=white) |
+| [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableSwarmUI?style=for-the-badge&label=%20&color=white) |
+| [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LykosAI/StabilityMatrix?style=for-the-badge&label=%20&color=white) |
 
 ### AI Code Complete
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetB``` ```VSCode``` | 22.2k |
+| [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ```SelfHost``` ```JetB``` ```VSCode``` | ![GitHub Repo stars](https://img.shields.io/github/stars/TabbyML/tabby?style=for-the-badge&label=%20&color=white) |
 
 ### Backup
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | ```Cross``` ```CLI``` | 8.6k |
-| [Restic](https://github.com/restic/restic) | Fast, secure, efficient backup program  | ```Cross``` ```CLI``` | 27.6k |
-| [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | ```Cross``` | 11.7k |
-| [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | ```Cross``` ```CLI``` | 11.5k |
-| [rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` ```CLI``` | 48.8k |
+| [Kopia](https://github.com/kopia/kopia) | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/kopia/kopia?style=for-the-badge&label=%20&color=white) |
+| [Restic](https://github.com/restic/restic) | Fast, secure, efficient backup program  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/restic/restic?style=for-the-badge&label=%20&color=white) |
+| [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/duplicati/duplicati?style=for-the-badge&label=%20&color=white) |
+| [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/borgbackup/borg?style=for-the-badge&label=%20&color=white) |
+| [rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/rclone/rclone?style=for-the-badge&label=%20&color=white) |
 
 ### Browser
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Zen](https://github.com/zen-browser/desktop) | 🌀 Experience tranquillity while browsing the web without people tracking you! | ```Cross``` | 14.9k |
-| [Brave](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | ```Cross``` | 17.7k |
-| [Ladybird](https://github.com/LadybirdBrowser/ladybird) ```🧪``` | Truly independent web browser | ```N/A``` | 21k |
-| [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | 6.1k |
-| [MinBrowser](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | 8k |
+| [Zen](https://github.com/zen-browser/desktop) | 🌀 Experience tranquillity while browsing the web without people tracking you! | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop?style=for-the-badge&label=%20&color=white) |
+| [Brave](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser?style=for-the-badge&label=%20&color=white) |
+| [Ladybird](https://github.com/LadybirdBrowser/ladybird) ```🧪``` | Truly independent web browser | ```N/A``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LadyBirdBrowser/ladybird?style=for-the-badge&label=%20&color=white) |
+| [Floorp](https://github.com/Floorp-Projects/Floorp) | All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp?style=for-the-badge&label=%20&color=white) |
+| [MinBrowser](https://github.com/minbrowser/min) | A fast, minimal browser that protects your privacy | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min?style=for-the-badge&label=%20&color=white) |
 
 ### Browser Extensions
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | 49.9k |
-| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | 19.6k |
+| [UBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock?style=for-the-badge&label=%20&color=white) |
+| [DarkReader](github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | ```Chromium``` ```Firefox``` | ![GitHub Repo stars](https://img.shields.io/github/stars/darkreader/darkreader?style=for-the-badge&label=%20&color=white) |
 
 ### Calendar
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | ```SelfHost``` | 31.9k |
+| [Cal](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/calcom/cal.com?style=for-the-badge&label=%20&color=white) |
 
 ### Chat
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Signal](https://github.com/signalapp) | A private messenger. | ```Cross``` | Total: 50k+ |
+| [Signal](https://github.com/signalapp) | A private messenger. | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=for-the-badge&label=%20&color=white) |
 
 ### Code Editor
 
 | Name | Description | Platform | Stars |
 | --- | --- | --- | --- |
-| [Zed](https://github.com/zed-industries/zed) ```⭕``` | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | 48.4k |
-| [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` ```CLI``` | 33.4k |
-| [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | 34.4k |
-| [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` ```CLI``` | 36.4k |
-| [Neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` ```CLI``` | 82.5k |
-| [Spacevim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` ```CLI``` | 20.3k |
-| [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` ```CLI``` | 24.6k |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy  | ```Cross``` ```CLI``` | 19.2k |
-| [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | 163k |
-| [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | 25.2k |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | 21k |
-| [code-server](https://github.com/coder/code-server) | VS Code in the browser | ```SelfHost``` | 69.8k |
+| [Zed](https://github.com/zed-industries/zed) ```⭕``` | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | ```MacOS``` ```Linux``` | ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed?style=for-the-badge&label=%20&color=white) |
+| [Helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=for-the-badge&label=%20&color=white) |
+| [Lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=for-the-badge&label=%20&color=white) |
+| [Vim](https://github.com/vim/vim) | The official Vim repository | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim?style=for-the-badge&label=%20&color=white) |
+| [Neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim?style=for-the-badge&label=%20&color=white) |
+| [Spacevim](https://github.com/SpaceVim/SpaceVim) | A modular Vim/Neovim configuration | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/SpaceVim/SpaceVim?style=for-the-badge&label=%20&color=white) |
+| [Nvchad](https://github.com/NvChad/NvChad) | Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/NvChad/NvChad?style=for-the-badge&label=%20&color=white) |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy  | ```Cross``` ```CLI``` | ![GitHub Repo stars](https://img.shields.io/github/stars/LazyVim/LazyVim?style=for-the-badge&label=%20&color=white) |
+| [VSCode](https://github.com/microsoft/vscode) | Visual Studio Code | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/vscode?style=for-the-badge&label=%20&color=white) |
+| [VSCodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | ```Cross``` | ![GitHub Repo stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=for-the-badge&label=%20&color=white) |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | ```MacOS``` | ![GitHub Repo stars](https://img.shields.io/github/stars/CodeEditApp/CodeEdit?style=for-the-badge&label=%20&color=white) |
+| [code-server](https://github.com/coder/code-server) | VS Code in the browser | ```SelfHost``` | ![GitHub Repo stars](https://img.shields.io/github/stars/coder/code-server?style=for-the-badge&label=%20&color=white) |
 
 ### Cleaner
 
