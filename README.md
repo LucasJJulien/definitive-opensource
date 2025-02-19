@@ -10,7 +10,7 @@
 > Discussions and contributions are welcome! This project is in it's early stages and a lot hasn't been ironed out yet. Submit or make changes by forking this repo, editing, commiting, and opening a pull-request - or just raise an issue. For more information on [contributing](CONTRIBUTING.md) and [guidelines](GUIDELINES.md) for open-source software submissions, consult their respective pages. 
 
 > [!CAUTION]  
-> We have a **very rigorous** vetting and research process. Please consult the guideline properly when making submissions. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
+> We have a **very rigorous** vetting and research process. We continously monitor projects on the list and immediately remove projects that no longer fit the criteria.
 
 > [!NOTE]
 > My MacOS [configuration](https://docs.google.com/document/d/1QF7wpvlFG7mfWtCGrFfyIUwgYzOYeSBDAIDvgiIJk44/edit?usp=sharing).
